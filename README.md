@@ -72,7 +72,9 @@ A Power Dex permite a consulta de informações sobre os pokémons lançados at�
 
 
 #### 🧾Descrição do processo:
-A coleta dos dados citados acima foi possível graças à construção de um algorítmo de Web Scraping / Web Crawling em <a href="https://www.python.org/" target="_blank">Python</a>.
+![image](https://user-images.githubusercontent.com/110268371/183217147-138c127c-73e6-45b8-a7f7-ae3ae3c522a1.png)
+
+A coleta dos dados citados acima foi possível graças à construção de um algorítmo de Web Scraping / Web Crawling em <a href="https://www.python.org/" target="_blank">Python 🐍</a>.
 
 Para isso, fiz a requisição com a URL do site onde estavam as informações desejadas utilizando a biblioteca <a href="https://docs.python.org/3/library/urllib.html" target="_blank">urllib</a>, que me devolveu o código HTML completo do site. Após isso, esse código HTML é decodificado por outra biblioteca, chamada <a href="https://beautiful-soup-4.readthedocs.io/en/latest/#" target="_blank">Beautiful Soup 🍲</a>, que cria um objeto python navegável onde eu posso buscar as informações.
 
@@ -88,12 +90,16 @@ Para buscar as informações, grande parte pode ser capturada usando funções d
 
 
 #### 🧾Descrição do processo:
+![image](https://user-images.githubusercontent.com/110268371/183217177-a0cc3274-23de-4f73-9c7a-88f349614117.png)
+
 A <a href="https://pokeapi.co/" target="_blank">PokéAPI</a> é uma API pública muito completa, lá estão quase todos os dados possíveis de cada pokémon e item dos jogos da franquia  <i>(O projeto inclusive poderia ser feito inteiramente com dados dessa API, mas um dos objetivos era praticar coleta de dados via Web Scraping)</i>.
 
 Para capturar os dados foi utilizada a biblioteca <a href="https://pypi.org/project/requests/" target="_blank">Requests</a> para fazer as requisições para a API , e o modulo python <a href="https://docs.python.org/3/library/json.html" target="_blank">Json</a> para transformar a resposta da API (JSON) para dicionário Python.
 
 
 ## 🥣Tratamento e carregamento dos dados
+![image](https://user-images.githubusercontent.com/110268371/183217058-f7f855be-82a6-42c8-bc4c-30f738d86053.png)
+
 
 O tratamento dos dados foi feito intreiramente em Python, usando a biblioteca <a href="https://pandas.pydata.org/docs/" target="_blank">Pandas 🐼</a>, que nos permite realizar o tratamento dos dados de forma eficiente.
 
