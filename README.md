@@ -8,7 +8,7 @@
 
 # 🧾Descrição do Projeto
 
-Projeto em desenvolvimento com intuito de por em prática conhecimentos em ETL que vão desde a extração e tratamento dos dados via Python e viasualização via Power BI
+Projeto em desenvolvimento com intuito de por em prática conhecimentos em ETL que vão desde a extração e tratamento dos dados via Python e visualização via Power BI
 
 A Power Dex permite a consulta de informações sobre os pokémons lançados até a 8 geração como status base, evoluções, formas alternativas, movimentos e muito mais
 
