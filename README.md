@@ -57,4 +57,19 @@ A Power Dex permite a consulta de informações sobre os pokémons lançados at�
 
 ![Filtro fogo](https://user-images.githubusercontent.com/110268371/183158362-e9853854-106d-4d7e-b875-4b69bbce23f3.png)
 
+# Desemvolvimento
+
+## Coleta dos dados
+
+### 1 - Web Scraping
+
+#### Fontes:
+<p>Dados gerais e Movimentos: <a href="https://pokemondb.net/" target="_blank">Pokémon Database</a></p>
+<p>Imagens dos Pokémon e suas Formas Alternativas: <a href="https://www.pokemon.com/br/" target="_blank">Site Oficial do Pokémon</a></p>
+<p>Evoluções dos Pokémon: <a href="https://pokemon.fandom.com/wiki/Pok%C3%A9mon_Wiki" target="_blank">Pokémon Fandom Wiki</a></p>
+
+### Descrição do processo:
+
+
+
 
