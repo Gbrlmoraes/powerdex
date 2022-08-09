@@ -1,0 +1,10 @@
+bs4==0.0.1
+numpy==1.22.3
+pandas==1.4.2
+psycopg2==2.9.3
+requests @ file:///opt/conda/conda-bld/requests_1641824580448/work
+requests-file==1.5.1
+requests-toolbelt==0.9.1
+SQLAlchemy==1.4.39
+ujson @ file:///C:/ci/ujson_1648044223886/work
+urllib3 @ file:///C:/ci/urllib3_1650639883891/work
