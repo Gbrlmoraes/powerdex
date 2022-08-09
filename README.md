@@ -6,6 +6,8 @@
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
 
+Link para o projeto: https://bit.ly/Powedex
+
 # 🧾Descrição do Projeto
 
 Projeto em desenvolvimento com intuito de por em prática conhecimentos em ETL que vão desde a extração e tratamento dos dados via Python e visualização via Power BI
@@ -30,7 +32,7 @@ A Power Dex permite a consulta de informações sobre os pokémons lançados at�
 
 ![Dados Gerais Pikachu](https://user-images.githubusercontent.com/110268371/183152160-ee0246f8-b187-42f3-892a-344d3d71b40b.png) 
 
-- `Funcionalidade 4`: Pop-ups para visulização melhor das formas alternativas e evoluções
+- `Funcionalidade 4`: Pop-ups para melhor visulização das formas alternativas e evoluções
 
 ![pop-ups](https://user-images.githubusercontent.com/110268371/183159484-23f105af-b1b1-4e76-b4f7-a9067512e886.png)
 
@@ -57,11 +59,9 @@ A Power Dex permite a consulta de informações sobre os pokémons lançados at�
 
 ![Filtro fogo](https://user-images.githubusercontent.com/110268371/183158362-e9853854-106d-4d7e-b875-4b69bbce23f3.png)
 
-# 👷‍♂️Desenvolvimento
+# 🧾Descrição das Ferramentas Utilizadas
 
 ## 🥄Coleta dos dados
-
-
 
 ### Web Scraping
 
@@ -79,9 +79,6 @@ A coleta dos dados citados acima foi possível graças à construção de um alg
 Para isso, fiz a requisição com a URL do site onde estavam as informações desejadas utilizando a biblioteca <a href="https://docs.python.org/3/library/urllib.html" target="_blank">urllib</a>, que me devolveu o código HTML completo do site. Após isso, esse código HTML é decodificado por outra biblioteca, chamada <a href="https://beautiful-soup-4.readthedocs.io/en/latest/#" target="_blank">Beautiful Soup 🍲</a>, que cria um objeto python navegável onde eu posso buscar as informações.
 
 Para buscar as informações, grande parte pode ser capturada usando funções da própria biblioteca Beautiful Soup, mas outras precisaram do uso de um pacote python chamado <a href="https://docs.python.org/3/library/re.html" target="_blank">RE</a>, que torna possível o uso de expressões regulares em Python.
-
-
-
 
 ### PokéAPI
 
@@ -107,6 +104,42 @@ Para carregar os dados foi utilizada uma combinação entre funções da bibliot
 
 Falando em banco de dados, o escolhido para esse projeto foi o <a href="https://www.postgresql.org/" target="_blank">PostegreSQL 🐘</a> por ser um banco de dados relacional muito robusto e por ser <i>Open Source</i>. Após o carregamento para o banco de dados, os dados foram consultados no <a href="https://powerbi.microsoft.com/pt-br/" target="_blank">Power BI</a>, onde foi desenvolvida toda a parte visual.
 
+# 🧑‍🍳ETL
+
+## 🥄Extract - Extração dos Dados
+<i>OBS: Todos os dados coletados foram armazenados em dataframes Pandas</i>
+### Web Scraping
+- `Dados Gerais`: Foram coletados da <a href="https://pokemondb.net/pokedex/all" target="_blank">página de status da pokemon db</a>, os seguintes dados: nome, id, tipo (completo), status, forma (base ou alternativa) e link para a página de cada pokemon.
+
+- `Ataques/Movimentos`: Foi coletado da página individual de cada pokémon (Ex: <a href="https://pokemondb.net/pokedex/pikachu" target="_blank">Pikachu</a>), informações sobre todos os movimentos que um pokémon pode aprender, seja por TM, seja por nível.
+
+- `Evoluções`: Da <a href="https://pokemon.fandom.com/wiki/List_of_Pok%C3%A9mon_by_evolution" target="_blank">página de cadeias evolutivas da pokemon fandom wiki</a>, foram coletados os nomes dos pokemons dos estágios 1, 2 e 3 de cada linha evolutiva.
+
+### API
+- `Sprites`: da <a href="https://pokeapi.co/" target="_blank">PokéAPI</a> foram extraídos os links para as imagens de como os pokémon aparecem nos jogos da franquia.
+
+## 🥣Transform - Transformação/Tratamento dos dados
+<i>OBS: Todos os dados foram tratados utilizando apenas funções da biblioteca Pandas e do próprio Python</i>
+
+- `Tipos`: A coluna coletada com os tipos completos dos pokémon foi traduzida para o português e foi dividida em duas colunas (Tipo Primário e Tipo Secundário). Ex:
+Tipo: Grass/Poison >>> Tipo 1: Planta / Tipo 2: Veneno
+
+- `Geração`: Foi adicionada uma coluna com a geração de cada pokemon, baseada no seu ID
+
+- `Imagem`: Foi criada uma coluna com o link da imagem oficial de cada pokémon disponível no <a href="https://www.pokemon.com/br/" target="_blank">Site Oficial do Pokémon</a>, utilizando apenas um padrão que depende do ID.
+     - Forma Base: https://assets.pokemon.com/assets/cms2/img/pokedex/full/ + __ID_POKEDEX__ + .png
+     - Forma Alternativa: https://assets.pokemon.com/assets/cms2/img/pokedex/full/ + __ID_POKEDEX__ + _ + f + __NUMERO_FORMA__ + .png
+     
+- `Status`: No dataframe inicial havia uma coluna para cada status do pokémon, desse dataframe, foi extraído outro dataframe com uma coluna definindo o status, uma coluna com o valor do status, a URL de cada pokémon, a forma e a ordenação de cada status.
+
+- `Ataques/Movimentos`: Tanto no dataframe com os movimentos por TM, quanto no dataframe com os movimentos por nível, foram traduzidos os tipos dos movimentos, foram traduzidas todas as colunas (Ex: Acc. >>> Precisão(%)) e foi removida a coluna "Cat.", que continha uma imagem que descrevia cada movimento.
+
+## 🥗Load - Carregamento dos dados
+### PostgreSQL
+<i>OBS: Dados carregados para o banco usando a Pandas e SQLAlchemy</i>
+
+### CSV
+Os dados também foram carregados para arquivos CSV, com o objetivo de facilitar a disponibilização do dataset coletado
 
 
 
