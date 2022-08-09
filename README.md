@@ -12,7 +12,7 @@ Link para o projeto: https://bit.ly/Powedex
 
 Projeto em desenvolvimento com o objetivo de por em prática conhecimentos em ETL que vão desde a extração e tratamento dos dados via Python e visualização via Power BI
 
-A Power Dex permite a consulta de informações sobre os pokémons lançados até a 8 geração como status base, evoluções, formas alternativas, movimentos e muito mais
+A Power Dex permite a consulta de informações sobre os pokémon lançados até a 8° geração como status base, evoluções, formas alternativas, movimentos e muito mais
 
 ![fluxograma do projeto](https://user-images.githubusercontent.com/110268371/183149732-21fad29b-95c9-497d-af3d-e4aaa9733603.png)
 
@@ -24,7 +24,7 @@ A Power Dex permite a consulta de informações sobre os pokémons lançados at�
 
 ## Página de dados gerais 
 
-- `Funcionalidade 1`: Cores do dashboard são variáveis dependendo do tipo do pokémon em análise
+- `Funcionalidade 1`: Cores do dashboard são variáveis, dependendo do tipo do pokémon em análise
 
 - `Funcionalidade 2`: Consulta dos dados básicos do pokémon
 
