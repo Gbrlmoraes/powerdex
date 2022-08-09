@@ -1,0 +1,1076 @@
+ID Pokedex;Nome;Forma;Total;Geração;Tipo 1;Tipo 2;URL Imagem
+001;Bulbasaur;Base;318;Gen 1;Planta;Veneno;https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png
+002;Ivysaur;Base;405;Gen 1;Planta;Veneno;https://assets.pokemon.com/assets/cms2/img/pokedex/full/002.png
+003;Venusaur;Base;525;Gen 1;Planta;Veneno;https://assets.pokemon.com/assets/cms2/img/pokedex/full/003.png
+003;Mega Venusaur;Alternativa;625;Gen 1;Planta;Veneno;https://assets.pokemon.com/assets/cms2/img/pokedex/full/003_f2.png
+004;Charmander;Base;309;Gen 1;Fogo;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png
+005;Charmeleon;Base;405;Gen 1;Fogo;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/005.png
+006;Charizard;Base;534;Gen 1;Fogo;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png
+006;Mega Charizard X;Alternativa;634;Gen 1;Fogo;Dragão;https://assets.pokemon.com/assets/cms2/img/pokedex/full/006_f2.png
+006;Mega Charizard Y;Alternativa;634;Gen 1;Fogo;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/006_f3.png
+007;Squirtle;Base;314;Gen 1;Água;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png
+008;Wartortle;Base;405;Gen 1;Água;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/008.png
+009;Blastoise;Base;530;Gen 1;Água;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/009.png
+009;Mega Blastoise;Alternativa;630;Gen 1;Água;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/009_f2.png
+010;Caterpie;Base;195;Gen 1;Inseto;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/010.png
+011;Metapod;Base;205;Gen 1;Inseto;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/011.png
+012;Butterfree;Base;395;Gen 1;Inseto;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/012.png
+013;Weedle;Base;195;Gen 1;Inseto;Veneno;https://assets.pokemon.com/assets/cms2/img/pokedex/full/013.png
+014;Kakuna;Base;205;Gen 1;Inseto;Veneno;https://assets.pokemon.com/assets/cms2/img/pokedex/full/014.png
+015;Beedrill;Base;395;Gen 1;Inseto;Veneno;https://assets.pokemon.com/assets/cms2/img/pokedex/full/015.png
+015;Mega Beedrill;Alternativa;495;Gen 1;Inseto;Veneno;https://assets.pokemon.com/assets/cms2/img/pokedex/full/015_f2.png
+016;Pidgey;Base;251;Gen 1;Normal;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/016.png
+017;Pidgeotto;Base;349;Gen 1;Normal;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/017.png
+018;Pidgeot;Base;479;Gen 1;Normal;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/018.png
+018;Mega Pidgeot;Alternativa;579;Gen 1;Normal;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/018_f2.png
+019;Rattata;Base;253;Gen 1;Normal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/019.png
+019;Alolan Rattata;Alternativa;253;Gen 1;Noturno;Normal;https://assets.pokemon.com/assets/cms2/img/pokedex/full/019_f2.png
+020;Raticate;Base;413;Gen 1;Normal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/020.png
+020;Alolan Raticate;Alternativa;413;Gen 1;Noturno;Normal;https://assets.pokemon.com/assets/cms2/img/pokedex/full/020_f2.png
+021;Spearow;Base;262;Gen 1;Normal;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/021.png
+022;Fearow;Base;442;Gen 1;Normal;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/022.png
+023;Ekans;Base;288;Gen 1;Veneno;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/023.png
+024;Arbok;Base;448;Gen 1;Veneno;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/024.png
+025;Pikachu;Base;320;Gen 1;Elétrico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png
+025;Partner Pikachu;Alternativa;430;Gen 1;Elétrico;-;https://img.pokemondb.net/artwork/pikachu-lets-go.jpg
+026;Raichu;Base;485;Gen 1;Elétrico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/026.png
+026;Alolan Raichu;Alternativa;485;Gen 1;Elétrico;Psíquico;https://assets.pokemon.com/assets/cms2/img/pokedex/full/026_f2.png
+027;Sandshrew;Base;300;Gen 1;Solo;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/027.png
+027;Alolan Sandshrew;Alternativa;300;Gen 1;Gelo;Metal;https://assets.pokemon.com/assets/cms2/img/pokedex/full/027_f2.png
+028;Sandslash;Base;450;Gen 1;Solo;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/028.png
+028;Alolan Sandslash;Alternativa;450;Gen 1;Gelo;Metal;https://assets.pokemon.com/assets/cms2/img/pokedex/full/028_f2.png
+029;Nidoran♀;Base;275;Gen 1;Veneno;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/029.png
+030;Nidorina;Base;365;Gen 1;Veneno;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/030.png
+031;Nidoqueen;Base;505;Gen 1;Veneno;Solo;https://assets.pokemon.com/assets/cms2/img/pokedex/full/031.png
+032;Nidoran♂;Base;273;Gen 1;Veneno;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/032.png
+033;Nidorino;Base;365;Gen 1;Veneno;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/033.png
+034;Nidoking;Base;505;Gen 1;Veneno;Solo;https://assets.pokemon.com/assets/cms2/img/pokedex/full/034.png
+035;Clefairy;Base;323;Gen 1;Fada;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/035.png
+036;Clefable;Base;483;Gen 1;Fada;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/036.png
+037;Vulpix;Base;299;Gen 1;Fogo;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/037.png
+037;Alolan Vulpix;Alternativa;299;Gen 1;Gelo;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/037_f2.png
+038;Ninetales;Base;505;Gen 1;Fogo;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/038.png
+038;Alolan Ninetales;Alternativa;505;Gen 1;Gelo;Fada;https://assets.pokemon.com/assets/cms2/img/pokedex/full/038_f2.png
+039;Jigglypuff;Base;270;Gen 1;Normal;Fada;https://assets.pokemon.com/assets/cms2/img/pokedex/full/039.png
+040;Wigglytuff;Base;435;Gen 1;Normal;Fada;https://assets.pokemon.com/assets/cms2/img/pokedex/full/040.png
+041;Zubat;Base;245;Gen 1;Veneno;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/041.png
+042;Golbat;Base;455;Gen 1;Veneno;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/042.png
+043;Oddish;Base;320;Gen 1;Planta;Veneno;https://assets.pokemon.com/assets/cms2/img/pokedex/full/043.png
+044;Gloom;Base;395;Gen 1;Planta;Veneno;https://assets.pokemon.com/assets/cms2/img/pokedex/full/044.png
+045;Vileplume;Base;490;Gen 1;Planta;Veneno;https://assets.pokemon.com/assets/cms2/img/pokedex/full/045.png
+046;Paras;Base;285;Gen 1;Inseto;Planta;https://assets.pokemon.com/assets/cms2/img/pokedex/full/046.png
+047;Parasect;Base;405;Gen 1;Inseto;Planta;https://assets.pokemon.com/assets/cms2/img/pokedex/full/047.png
+048;Venonat;Base;305;Gen 1;Inseto;Veneno;https://assets.pokemon.com/assets/cms2/img/pokedex/full/048.png
+049;Venomoth;Base;450;Gen 1;Inseto;Veneno;https://assets.pokemon.com/assets/cms2/img/pokedex/full/049.png
+050;Diglett;Base;265;Gen 1;Solo;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/050.png
+050;Alolan Diglett;Alternativa;265;Gen 1;Solo;Metal;https://assets.pokemon.com/assets/cms2/img/pokedex/full/050_f2.png
+051;Dugtrio;Base;425;Gen 1;Solo;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/051.png
+051;Alolan Dugtrio;Alternativa;425;Gen 1;Solo;Metal;https://assets.pokemon.com/assets/cms2/img/pokedex/full/051_f2.png
+052;Meowth;Base;290;Gen 1;Normal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/052.png
+052;Alolan Meowth;Alternativa;290;Gen 1;Noturno;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/052_f2.png
+052;Galarian Meowth;Alternativa;290;Gen 1;Metal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/052_f3.png
+053;Persian;Base;440;Gen 1;Normal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/053.png
+053;Alolan Persian;Alternativa;440;Gen 1;Noturno;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/053_f2.png
+054;Psyduck;Base;320;Gen 1;Água;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/054.png
+055;Golduck;Base;500;Gen 1;Água;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/055.png
+056;Mankey;Base;305;Gen 1;Lutador;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/056.png
+057;Primeape;Base;455;Gen 1;Lutador;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/057.png
+058;Growlithe;Base;350;Gen 1;Fogo;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/058.png
+058;Hisuian Growlithe;Alternativa;350;Gen 1;Fogo;Pedra;https://assets.pokemon.com/assets/cms2/img/pokedex/full/058_f2.png
+059;Arcanine;Base;555;Gen 1;Fogo;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/059.png
+059;Hisuian Arcanine;Alternativa;555;Gen 1;Fogo;Pedra;https://assets.pokemon.com/assets/cms2/img/pokedex/full/059_f2.png
+060;Poliwag;Base;300;Gen 1;Água;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/060.png
+061;Poliwhirl;Base;385;Gen 1;Água;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/061.png
+062;Poliwrath;Base;510;Gen 1;Água;Lutador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/062.png
+063;Abra;Base;310;Gen 1;Psíquico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/063.png
+064;Kadabra;Base;400;Gen 1;Psíquico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/064.png
+065;Alakazam;Base;500;Gen 1;Psíquico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/065.png
+065;Mega Alakazam;Alternativa;600;Gen 1;Psíquico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/065_f2.png
+066;Machop;Base;305;Gen 1;Lutador;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/066.png
+067;Machoke;Base;405;Gen 1;Lutador;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/067.png
+068;Machamp;Base;505;Gen 1;Lutador;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/068.png
+069;Bellsprout;Base;300;Gen 1;Planta;Veneno;https://assets.pokemon.com/assets/cms2/img/pokedex/full/069.png
+070;Weepinbell;Base;390;Gen 1;Planta;Veneno;https://assets.pokemon.com/assets/cms2/img/pokedex/full/070.png
+071;Victreebel;Base;490;Gen 1;Planta;Veneno;https://assets.pokemon.com/assets/cms2/img/pokedex/full/071.png
+072;Tentacool;Base;335;Gen 1;Água;Veneno;https://assets.pokemon.com/assets/cms2/img/pokedex/full/072.png
+073;Tentacruel;Base;515;Gen 1;Água;Veneno;https://assets.pokemon.com/assets/cms2/img/pokedex/full/073.png
+074;Geodude;Base;300;Gen 1;Pedra;Solo;https://assets.pokemon.com/assets/cms2/img/pokedex/full/074.png
+074;Alolan Geodude;Alternativa;300;Gen 1;Pedra;Elétrico;https://assets.pokemon.com/assets/cms2/img/pokedex/full/074_f2.png
+075;Graveler;Base;390;Gen 1;Pedra;Solo;https://assets.pokemon.com/assets/cms2/img/pokedex/full/075.png
+075;Alolan Graveler;Alternativa;390;Gen 1;Pedra;Elétrico;https://assets.pokemon.com/assets/cms2/img/pokedex/full/075_f2.png
+076;Golem;Base;495;Gen 1;Pedra;Solo;https://assets.pokemon.com/assets/cms2/img/pokedex/full/076.png
+076;Alolan Golem;Alternativa;495;Gen 1;Pedra;Elétrico;https://assets.pokemon.com/assets/cms2/img/pokedex/full/076_f2.png
+077;Ponyta;Base;410;Gen 1;Fogo;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/077.png
+077;Galarian Ponyta;Alternativa;410;Gen 1;Psíquico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/077_f2.png
+078;Rapidash;Base;500;Gen 1;Fogo;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/078.png
+078;Galarian Rapidash;Alternativa;500;Gen 1;Psíquico;Fada;https://assets.pokemon.com/assets/cms2/img/pokedex/full/078_f2.png
+079;Slowpoke;Base;315;Gen 1;Água;Psíquico;https://assets.pokemon.com/assets/cms2/img/pokedex/full/079.png
+079;Galarian Slowpoke;Alternativa;315;Gen 1;Psíquico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/079_f2.png
+080;Slowbro;Base;490;Gen 1;Água;Psíquico;https://assets.pokemon.com/assets/cms2/img/pokedex/full/080.png
+080;Mega Slowbro;Alternativa;590;Gen 1;Água;Psíquico;https://assets.pokemon.com/assets/cms2/img/pokedex/full/080_f2.png
+080;Galarian Slowbro;Alternativa;490;Gen 1;Veneno;Psíquico;https://assets.pokemon.com/assets/cms2/img/pokedex/full/080_f3.png
+081;Magnemite;Base;325;Gen 1;Elétrico;Metal;https://assets.pokemon.com/assets/cms2/img/pokedex/full/081.png
+082;Magneton;Base;465;Gen 1;Elétrico;Metal;https://assets.pokemon.com/assets/cms2/img/pokedex/full/082.png
+083;Farfetch'd;Base;377;Gen 1;Normal;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/083.png
+083;Galarian Farfetch'd;Alternativa;377;Gen 1;Lutador;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/083_f2.png
+084;Doduo;Base;310;Gen 1;Normal;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/084.png
+085;Dodrio;Base;470;Gen 1;Normal;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/085.png
+086;Seel;Base;325;Gen 1;Água;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/086.png
+087;Dewgong;Base;475;Gen 1;Água;Gelo;https://assets.pokemon.com/assets/cms2/img/pokedex/full/087.png
+088;Grimer;Base;325;Gen 1;Veneno;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/088.png
+088;Alolan Grimer;Alternativa;325;Gen 1;Veneno;Noturno;https://assets.pokemon.com/assets/cms2/img/pokedex/full/088_f2.png
+089;Muk;Base;500;Gen 1;Veneno;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/089.png
+089;Alolan Muk;Alternativa;500;Gen 1;Veneno;Noturno;https://assets.pokemon.com/assets/cms2/img/pokedex/full/089_f2.png
+090;Shellder;Base;305;Gen 1;Água;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/090.png
+091;Cloyster;Base;525;Gen 1;Água;Gelo;https://assets.pokemon.com/assets/cms2/img/pokedex/full/091.png
+092;Gastly;Base;310;Gen 1;Fantasma;Veneno;https://assets.pokemon.com/assets/cms2/img/pokedex/full/092.png
+093;Haunter;Base;405;Gen 1;Fantasma;Veneno;https://assets.pokemon.com/assets/cms2/img/pokedex/full/093.png
+094;Gengar;Base;500;Gen 1;Fantasma;Veneno;https://assets.pokemon.com/assets/cms2/img/pokedex/full/094.png
+094;Mega Gengar;Alternativa;600;Gen 1;Fantasma;Veneno;https://assets.pokemon.com/assets/cms2/img/pokedex/full/094_f2.png
+095;Onix;Base;385;Gen 1;Pedra;Solo;https://assets.pokemon.com/assets/cms2/img/pokedex/full/095.png
+096;Drowzee;Base;328;Gen 1;Psíquico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/096.png
+097;Hypno;Base;483;Gen 1;Psíquico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/097.png
+098;Krabby;Base;325;Gen 1;Água;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/098.png
+099;Kingler;Base;475;Gen 1;Água;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/099.png
+100;Voltorb;Base;330;Gen 1;Elétrico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/100.png
+100;Hisuian Voltorb;Alternativa;330;Gen 1;Elétrico;Planta;https://assets.pokemon.com/assets/cms2/img/pokedex/full/100_f2.png
+101;Electrode;Base;490;Gen 1;Elétrico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/101.png
+101;Hisuian Electrode;Alternativa;490;Gen 1;Elétrico;Planta;https://assets.pokemon.com/assets/cms2/img/pokedex/full/101_f2.png
+102;Exeggcute;Base;325;Gen 1;Planta;Psíquico;https://assets.pokemon.com/assets/cms2/img/pokedex/full/102.png
+103;Exeggutor;Base;530;Gen 1;Planta;Psíquico;https://assets.pokemon.com/assets/cms2/img/pokedex/full/103.png
+103;Alolan Exeggutor;Alternativa;530;Gen 1;Planta;Dragão;https://assets.pokemon.com/assets/cms2/img/pokedex/full/103_f2.png
+104;Cubone;Base;320;Gen 1;Solo;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/104.png
+105;Marowak;Base;425;Gen 1;Solo;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/105.png
+105;Alolan Marowak;Alternativa;425;Gen 1;Fogo;Fantasma;https://assets.pokemon.com/assets/cms2/img/pokedex/full/105_f2.png
+106;Hitmonlee;Base;455;Gen 1;Lutador;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/106.png
+107;Hitmonchan;Base;455;Gen 1;Lutador;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/107.png
+108;Lickitung;Base;385;Gen 1;Normal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/108.png
+109;Koffing;Base;340;Gen 1;Veneno;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/109.png
+110;Weezing;Base;490;Gen 1;Veneno;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/110.png
+110;Galarian Weezing;Alternativa;490;Gen 1;Veneno;Fada;https://assets.pokemon.com/assets/cms2/img/pokedex/full/110_f2.png
+111;Rhyhorn;Base;345;Gen 1;Solo;Pedra;https://assets.pokemon.com/assets/cms2/img/pokedex/full/111.png
+112;Rhydon;Base;485;Gen 1;Solo;Pedra;https://assets.pokemon.com/assets/cms2/img/pokedex/full/112.png
+113;Chansey;Base;450;Gen 1;Normal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/113.png
+114;Tangela;Base;435;Gen 1;Planta;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/114.png
+115;Kangaskhan;Base;490;Gen 1;Normal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/115.png
+115;Mega Kangaskhan;Alternativa;590;Gen 1;Normal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/115_f2.png
+116;Horsea;Base;295;Gen 1;Água;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/116.png
+117;Seadra;Base;440;Gen 1;Água;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/117.png
+118;Goldeen;Base;320;Gen 1;Água;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/118.png
+119;Seaking;Base;450;Gen 1;Água;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/119.png
+120;Staryu;Base;340;Gen 1;Água;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/120.png
+121;Starmie;Base;520;Gen 1;Água;Psíquico;https://assets.pokemon.com/assets/cms2/img/pokedex/full/121.png
+122;Mr. Mime;Base;460;Gen 1;Psíquico;Fada;https://assets.pokemon.com/assets/cms2/img/pokedex/full/122.png
+122;Galarian Mr. Mime;Alternativa;460;Gen 1;Gelo;Psíquico;https://assets.pokemon.com/assets/cms2/img/pokedex/full/122_f2.png
+123;Scyther;Base;500;Gen 1;Inseto;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/123.png
+124;Jynx;Base;455;Gen 1;Gelo;Psíquico;https://assets.pokemon.com/assets/cms2/img/pokedex/full/124.png
+125;Electabuzz;Base;490;Gen 1;Elétrico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/125.png
+126;Magmar;Base;495;Gen 1;Fogo;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/126.png
+127;Pinsir;Base;500;Gen 1;Inseto;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/127.png
+127;Mega Pinsir;Alternativa;600;Gen 1;Inseto;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/127_f2.png
+128;Tauros;Base;490;Gen 1;Normal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/128.png
+129;Magikarp;Base;200;Gen 1;Água;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/129.png
+130;Gyarados;Base;540;Gen 1;Água;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/130.png
+130;Mega Gyarados;Alternativa;640;Gen 1;Água;Noturno;https://assets.pokemon.com/assets/cms2/img/pokedex/full/130_f2.png
+131;Lapras;Base;535;Gen 1;Água;Gelo;https://assets.pokemon.com/assets/cms2/img/pokedex/full/131.png
+132;Ditto;Base;288;Gen 1;Normal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/132.png
+133;Eevee;Base;325;Gen 1;Normal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/133.png
+133;Partner Eevee;Alternativa;435;Gen 1;Normal;-;https://img.pokemondb.net/artwork/eevee-lets-go.jpg
+134;Vaporeon;Base;525;Gen 1;Água;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/134.png
+135;Jolteon;Base;525;Gen 1;Elétrico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/135.png
+136;Flareon;Base;525;Gen 1;Fogo;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/136.png
+137;Porygon;Base;395;Gen 1;Normal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/137.png
+138;Omanyte;Base;355;Gen 1;Pedra;Água;https://assets.pokemon.com/assets/cms2/img/pokedex/full/138.png
+139;Omastar;Base;495;Gen 1;Pedra;Água;https://assets.pokemon.com/assets/cms2/img/pokedex/full/139.png
+140;Kabuto;Base;355;Gen 1;Pedra;Água;https://assets.pokemon.com/assets/cms2/img/pokedex/full/140.png
+141;Kabutops;Base;495;Gen 1;Pedra;Água;https://assets.pokemon.com/assets/cms2/img/pokedex/full/141.png
+142;Aerodactyl;Base;515;Gen 1;Pedra;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/142.png
+142;Mega Aerodactyl;Alternativa;615;Gen 1;Pedra;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/142_f2.png
+143;Snorlax;Base;540;Gen 1;Normal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/143.png
+144;Articuno;Base;580;Gen 1;Gelo;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/144.png
+144;Galarian Articuno;Alternativa;580;Gen 1;Psíquico;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/144_f2.png
+145;Zapdos;Base;580;Gen 1;Elétrico;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/145.png
+145;Galarian Zapdos;Alternativa;580;Gen 1;Lutador;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/145_f2.png
+146;Moltres;Base;580;Gen 1;Fogo;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/146.png
+146;Galarian Moltres;Alternativa;580;Gen 1;Noturno;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/146_f2.png
+147;Dratini;Base;300;Gen 1;Dragão;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/147.png
+148;Dragonair;Base;420;Gen 1;Dragão;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/148.png
+149;Dragonite;Base;600;Gen 1;Dragão;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/149.png
+150;Mewtwo;Base;680;Gen 1;Psíquico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/150.png
+150;Mega Mewtwo X;Alternativa;780;Gen 1;Psíquico;Lutador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/150_f2.png
+150;Mega Mewtwo Y;Alternativa;780;Gen 1;Psíquico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/150_f3.png
+151;Mew;Base;600;Gen 1;Psíquico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/151.png
+152;Chikorita;Base;318;Gen 2;Planta;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/152.png
+153;Bayleef;Base;405;Gen 2;Planta;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/153.png
+154;Meganium;Base;525;Gen 2;Planta;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/154.png
+155;Cyndaquil;Base;309;Gen 2;Fogo;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/155.png
+156;Quilava;Base;405;Gen 2;Fogo;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/156.png
+157;Typhlosion;Base;534;Gen 2;Fogo;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/157.png
+157;Hisuian Typhlosion;Alternativa;534;Gen 2;Fogo;Fantasma;https://assets.pokemon.com/assets/cms2/img/pokedex/full/157_f2.png
+158;Totodile;Base;314;Gen 2;Água;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/158.png
+159;Croconaw;Base;405;Gen 2;Água;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/159.png
+160;Feraligatr;Base;530;Gen 2;Água;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/160.png
+161;Sentret;Base;215;Gen 2;Normal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/161.png
+162;Furret;Base;415;Gen 2;Normal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/162.png
+163;Hoothoot;Base;262;Gen 2;Normal;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/163.png
+164;Noctowl;Base;452;Gen 2;Normal;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/164.png
+165;Ledyba;Base;265;Gen 2;Inseto;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/165.png
+166;Ledian;Base;390;Gen 2;Inseto;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/166.png
+167;Spinarak;Base;250;Gen 2;Inseto;Veneno;https://assets.pokemon.com/assets/cms2/img/pokedex/full/167.png
+168;Ariados;Base;400;Gen 2;Inseto;Veneno;https://assets.pokemon.com/assets/cms2/img/pokedex/full/168.png
+169;Crobat;Base;535;Gen 2;Veneno;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/169.png
+170;Chinchou;Base;330;Gen 2;Água;Elétrico;https://assets.pokemon.com/assets/cms2/img/pokedex/full/170.png
+171;Lanturn;Base;460;Gen 2;Água;Elétrico;https://assets.pokemon.com/assets/cms2/img/pokedex/full/171.png
+172;Pichu;Base;205;Gen 2;Elétrico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/172.png
+173;Cleffa;Base;218;Gen 2;Fada;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/173.png
+174;Igglybuff;Base;210;Gen 2;Normal;Fada;https://assets.pokemon.com/assets/cms2/img/pokedex/full/174.png
+175;Togepi;Base;245;Gen 2;Fada;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/175.png
+176;Togetic;Base;405;Gen 2;Fada;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/176.png
+177;Natu;Base;320;Gen 2;Psíquico;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/177.png
+178;Xatu;Base;470;Gen 2;Psíquico;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/178.png
+179;Mareep;Base;280;Gen 2;Elétrico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/179.png
+180;Flaaffy;Base;365;Gen 2;Elétrico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/180.png
+181;Ampharos;Base;510;Gen 2;Elétrico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/181.png
+181;Mega Ampharos;Alternativa;610;Gen 2;Elétrico;Dragão;https://assets.pokemon.com/assets/cms2/img/pokedex/full/181_f2.png
+182;Bellossom;Base;490;Gen 2;Planta;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/182.png
+183;Marill;Base;250;Gen 2;Água;Fada;https://assets.pokemon.com/assets/cms2/img/pokedex/full/183.png
+184;Azumarill;Base;420;Gen 2;Água;Fada;https://assets.pokemon.com/assets/cms2/img/pokedex/full/184.png
+185;Sudowoodo;Base;410;Gen 2;Pedra;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/185.png
+186;Politoed;Base;500;Gen 2;Água;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/186.png
+187;Hoppip;Base;250;Gen 2;Planta;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/187.png
+188;Skiploom;Base;340;Gen 2;Planta;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/188.png
+189;Jumpluff;Base;460;Gen 2;Planta;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/189.png
+190;Aipom;Base;360;Gen 2;Normal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/190.png
+191;Sunkern;Base;180;Gen 2;Planta;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/191.png
+192;Sunflora;Base;425;Gen 2;Planta;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/192.png
+193;Yanma;Base;390;Gen 2;Inseto;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/193.png
+194;Wooper;Base;210;Gen 2;Água;Solo;https://assets.pokemon.com/assets/cms2/img/pokedex/full/194.png
+195;Quagsire;Base;430;Gen 2;Água;Solo;https://assets.pokemon.com/assets/cms2/img/pokedex/full/195.png
+196;Espeon;Base;525;Gen 2;Psíquico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/196.png
+197;Umbreon;Base;525;Gen 2;Noturno;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/197.png
+198;Murkrow;Base;405;Gen 2;Noturno;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/198.png
+199;Slowking;Base;490;Gen 2;Água;Psíquico;https://assets.pokemon.com/assets/cms2/img/pokedex/full/199.png
+199;Galarian Slowking;Alternativa;490;Gen 2;Veneno;Psíquico;https://assets.pokemon.com/assets/cms2/img/pokedex/full/199_f2.png
+200;Misdreavus;Base;435;Gen 2;Fantasma;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/200.png
+201;Unown;Base;336;Gen 2;Psíquico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/201.png
+202;Wobbuffet;Base;405;Gen 2;Psíquico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/202.png
+203;Girafarig;Base;455;Gen 2;Normal;Psíquico;https://assets.pokemon.com/assets/cms2/img/pokedex/full/203.png
+204;Pineco;Base;290;Gen 2;Inseto;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/204.png
+205;Forretress;Base;465;Gen 2;Inseto;Metal;https://assets.pokemon.com/assets/cms2/img/pokedex/full/205.png
+206;Dunsparce;Base;415;Gen 2;Normal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/206.png
+207;Gligar;Base;430;Gen 2;Solo;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/207.png
+208;Steelix;Base;510;Gen 2;Metal;Solo;https://assets.pokemon.com/assets/cms2/img/pokedex/full/208.png
+208;Mega Steelix;Alternativa;610;Gen 2;Metal;Solo;https://assets.pokemon.com/assets/cms2/img/pokedex/full/208_f2.png
+209;Snubbull;Base;300;Gen 2;Fada;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/209.png
+210;Granbull;Base;450;Gen 2;Fada;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/210.png
+211;Qwilfish;Base;440;Gen 2;Água;Veneno;https://assets.pokemon.com/assets/cms2/img/pokedex/full/211.png
+211;Hisuian Qwilfish;Alternativa;440;Gen 2;Noturno;Veneno;https://assets.pokemon.com/assets/cms2/img/pokedex/full/211_f2.png
+212;Scizor;Base;500;Gen 2;Inseto;Metal;https://assets.pokemon.com/assets/cms2/img/pokedex/full/212.png
+212;Mega Scizor;Alternativa;600;Gen 2;Inseto;Metal;https://assets.pokemon.com/assets/cms2/img/pokedex/full/212_f2.png
+213;Shuckle;Base;505;Gen 2;Inseto;Pedra;https://assets.pokemon.com/assets/cms2/img/pokedex/full/213.png
+214;Heracross;Base;500;Gen 2;Inseto;Lutador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/214.png
+214;Mega Heracross;Alternativa;600;Gen 2;Inseto;Lutador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/214_f2.png
+215;Sneasel;Base;430;Gen 2;Noturno;Gelo;https://assets.pokemon.com/assets/cms2/img/pokedex/full/215.png
+215;Hisuian Sneasel;Alternativa;430;Gen 2;Veneno;Lutador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/215_f2.png
+216;Teddiursa;Base;330;Gen 2;Normal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/216.png
+217;Ursaring;Base;500;Gen 2;Normal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/217.png
+218;Slugma;Base;250;Gen 2;Fogo;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/218.png
+219;Magcargo;Base;430;Gen 2;Fogo;Pedra;https://assets.pokemon.com/assets/cms2/img/pokedex/full/219.png
+220;Swinub;Base;250;Gen 2;Gelo;Solo;https://assets.pokemon.com/assets/cms2/img/pokedex/full/220.png
+221;Piloswine;Base;450;Gen 2;Gelo;Solo;https://assets.pokemon.com/assets/cms2/img/pokedex/full/221.png
+222;Corsola;Base;410;Gen 2;Água;Pedra;https://assets.pokemon.com/assets/cms2/img/pokedex/full/222.png
+222;Galarian Corsola;Alternativa;410;Gen 2;Fantasma;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/222_f2.png
+223;Remoraid;Base;300;Gen 2;Água;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/223.png
+224;Octillery;Base;480;Gen 2;Água;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/224.png
+225;Delibird;Base;330;Gen 2;Gelo;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/225.png
+226;Mantine;Base;485;Gen 2;Água;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/226.png
+227;Skarmory;Base;465;Gen 2;Metal;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/227.png
+228;Houndour;Base;330;Gen 2;Noturno;Fogo;https://assets.pokemon.com/assets/cms2/img/pokedex/full/228.png
+229;Houndoom;Base;500;Gen 2;Noturno;Fogo;https://assets.pokemon.com/assets/cms2/img/pokedex/full/229.png
+229;Mega Houndoom;Alternativa;600;Gen 2;Noturno;Fogo;https://assets.pokemon.com/assets/cms2/img/pokedex/full/229_f2.png
+230;Kingdra;Base;540;Gen 2;Água;Dragão;https://assets.pokemon.com/assets/cms2/img/pokedex/full/230.png
+231;Phanpy;Base;330;Gen 2;Solo;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/231.png
+232;Donphan;Base;500;Gen 2;Solo;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/232.png
+233;Porygon2;Base;515;Gen 2;Normal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/233.png
+234;Stantler;Base;465;Gen 2;Normal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/234.png
+235;Smeargle;Base;250;Gen 2;Normal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/235.png
+236;Tyrogue;Base;210;Gen 2;Lutador;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/236.png
+237;Hitmontop;Base;455;Gen 2;Lutador;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/237.png
+238;Smoochum;Base;305;Gen 2;Gelo;Psíquico;https://assets.pokemon.com/assets/cms2/img/pokedex/full/238.png
+239;Elekid;Base;360;Gen 2;Elétrico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/239.png
+240;Magby;Base;365;Gen 2;Fogo;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/240.png
+241;Miltank;Base;490;Gen 2;Normal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/241.png
+242;Blissey;Base;540;Gen 2;Normal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/242.png
+243;Raikou;Base;580;Gen 2;Elétrico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/243.png
+244;Entei;Base;580;Gen 2;Fogo;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/244.png
+245;Suicune;Base;580;Gen 2;Água;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/245.png
+246;Larvitar;Base;300;Gen 2;Pedra;Solo;https://assets.pokemon.com/assets/cms2/img/pokedex/full/246.png
+247;Pupitar;Base;410;Gen 2;Pedra;Solo;https://assets.pokemon.com/assets/cms2/img/pokedex/full/247.png
+248;Tyranitar;Base;600;Gen 2;Pedra;Noturno;https://assets.pokemon.com/assets/cms2/img/pokedex/full/248.png
+248;Mega Tyranitar;Alternativa;700;Gen 2;Pedra;Noturno;https://assets.pokemon.com/assets/cms2/img/pokedex/full/248_f2.png
+249;Lugia;Base;680;Gen 2;Psíquico;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/249.png
+250;Ho-oh;Base;680;Gen 2;Fogo;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/250.png
+251;Celebi;Base;600;Gen 2;Psíquico;Planta;https://assets.pokemon.com/assets/cms2/img/pokedex/full/251.png
+252;Treecko;Base;310;Gen 3;Planta;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/252.png
+253;Grovyle;Base;405;Gen 3;Planta;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/253.png
+254;Sceptile;Base;530;Gen 3;Planta;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/254.png
+254;Mega Sceptile;Alternativa;630;Gen 3;Planta;Dragão;https://assets.pokemon.com/assets/cms2/img/pokedex/full/254_f2.png
+255;Torchic;Base;310;Gen 3;Fogo;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/255.png
+256;Combusken;Base;405;Gen 3;Fogo;Lutador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/256.png
+257;Blaziken;Base;530;Gen 3;Fogo;Lutador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/257.png
+257;Mega Blaziken;Alternativa;630;Gen 3;Fogo;Lutador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/257_f2.png
+258;Mudkip;Base;310;Gen 3;Água;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/258.png
+259;Marshtomp;Base;405;Gen 3;Água;Solo;https://assets.pokemon.com/assets/cms2/img/pokedex/full/259.png
+260;Swampert;Base;535;Gen 3;Água;Solo;https://assets.pokemon.com/assets/cms2/img/pokedex/full/260.png
+260;Mega Swampert;Alternativa;635;Gen 3;Água;Solo;https://assets.pokemon.com/assets/cms2/img/pokedex/full/260_f2.png
+261;Poochyena;Base;220;Gen 3;Noturno;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/261.png
+262;Mightyena;Base;420;Gen 3;Noturno;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/262.png
+263;Zigzagoon;Base;240;Gen 3;Normal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/263.png
+263;Galarian Zigzagoon;Alternativa;240;Gen 3;Noturno;Normal;https://assets.pokemon.com/assets/cms2/img/pokedex/full/263_f2.png
+264;Linoone;Base;420;Gen 3;Normal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/264.png
+264;Galarian Linoone;Alternativa;420;Gen 3;Noturno;Normal;https://assets.pokemon.com/assets/cms2/img/pokedex/full/264_f2.png
+265;Wurmple;Base;195;Gen 3;Inseto;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/265.png
+266;Silcoon;Base;205;Gen 3;Inseto;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/266.png
+267;Beautifly;Base;395;Gen 3;Inseto;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/267.png
+268;Cascoon;Base;205;Gen 3;Inseto;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/268.png
+269;Dustox;Base;385;Gen 3;Inseto;Veneno;https://assets.pokemon.com/assets/cms2/img/pokedex/full/269.png
+270;Lotad;Base;220;Gen 3;Água;Planta;https://assets.pokemon.com/assets/cms2/img/pokedex/full/270.png
+271;Lombre;Base;340;Gen 3;Água;Planta;https://assets.pokemon.com/assets/cms2/img/pokedex/full/271.png
+272;Ludicolo;Base;480;Gen 3;Água;Planta;https://assets.pokemon.com/assets/cms2/img/pokedex/full/272.png
+273;Seedot;Base;220;Gen 3;Planta;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/273.png
+274;Nuzleaf;Base;340;Gen 3;Planta;Noturno;https://assets.pokemon.com/assets/cms2/img/pokedex/full/274.png
+275;Shiftry;Base;480;Gen 3;Planta;Noturno;https://assets.pokemon.com/assets/cms2/img/pokedex/full/275.png
+276;Taillow;Base;270;Gen 3;Normal;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/276.png
+277;Swellow;Base;455;Gen 3;Normal;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/277.png
+278;Wingull;Base;270;Gen 3;Água;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/278.png
+279;Pelipper;Base;440;Gen 3;Água;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/279.png
+280;Ralts;Base;198;Gen 3;Psíquico;Fada;https://assets.pokemon.com/assets/cms2/img/pokedex/full/280.png
+281;Kirlia;Base;278;Gen 3;Psíquico;Fada;https://assets.pokemon.com/assets/cms2/img/pokedex/full/281.png
+282;Gardevoir;Base;518;Gen 3;Psíquico;Fada;https://assets.pokemon.com/assets/cms2/img/pokedex/full/282.png
+282;Mega Gardevoir;Alternativa;618;Gen 3;Psíquico;Fada;https://assets.pokemon.com/assets/cms2/img/pokedex/full/282_f2.png
+283;Surskit;Base;269;Gen 3;Inseto;Água;https://assets.pokemon.com/assets/cms2/img/pokedex/full/283.png
+284;Masquerain;Base;454;Gen 3;Inseto;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/284.png
+285;Shroomish;Base;295;Gen 3;Planta;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/285.png
+286;Breloom;Base;460;Gen 3;Planta;Lutador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/286.png
+287;Slakoth;Base;280;Gen 3;Normal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/287.png
+288;Vigoroth;Base;440;Gen 3;Normal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/288.png
+289;Slaking;Base;670;Gen 3;Normal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/289.png
+290;Nincada;Base;266;Gen 3;Inseto;Solo;https://assets.pokemon.com/assets/cms2/img/pokedex/full/290.png
+291;Ninjask;Base;456;Gen 3;Inseto;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/291.png
+292;Shedinja;Base;236;Gen 3;Inseto;Fantasma;https://assets.pokemon.com/assets/cms2/img/pokedex/full/292.png
+293;Whismur;Base;240;Gen 3;Normal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/293.png
+294;Loudred;Base;360;Gen 3;Normal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/294.png
+295;Exploud;Base;490;Gen 3;Normal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/295.png
+296;Makuhita;Base;237;Gen 3;Lutador;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/296.png
+297;Hariyama;Base;474;Gen 3;Lutador;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/297.png
+298;Azurill;Base;190;Gen 3;Normal;Fada;https://assets.pokemon.com/assets/cms2/img/pokedex/full/298.png
+299;Nosepass;Base;375;Gen 3;Pedra;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/299.png
+300;Skitty;Base;260;Gen 3;Normal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/300.png
+301;Delcatty;Base;400;Gen 3;Normal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/301.png
+302;Sableye;Base;380;Gen 3;Noturno;Fantasma;https://assets.pokemon.com/assets/cms2/img/pokedex/full/302.png
+302;Mega Sableye;Alternativa;480;Gen 3;Noturno;Fantasma;https://assets.pokemon.com/assets/cms2/img/pokedex/full/302_f2.png
+303;Mawile;Base;380;Gen 3;Metal;Fada;https://assets.pokemon.com/assets/cms2/img/pokedex/full/303.png
+303;Mega Mawile;Alternativa;480;Gen 3;Metal;Fada;https://assets.pokemon.com/assets/cms2/img/pokedex/full/303_f2.png
+304;Aron;Base;330;Gen 3;Metal;Pedra;https://assets.pokemon.com/assets/cms2/img/pokedex/full/304.png
+305;Lairon;Base;430;Gen 3;Metal;Pedra;https://assets.pokemon.com/assets/cms2/img/pokedex/full/305.png
+306;Aggron;Base;530;Gen 3;Metal;Pedra;https://assets.pokemon.com/assets/cms2/img/pokedex/full/306.png
+306;Mega Aggron;Alternativa;630;Gen 3;Metal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/306_f2.png
+307;Meditite;Base;280;Gen 3;Lutador;Psíquico;https://assets.pokemon.com/assets/cms2/img/pokedex/full/307.png
+308;Medicham;Base;410;Gen 3;Lutador;Psíquico;https://assets.pokemon.com/assets/cms2/img/pokedex/full/308.png
+308;Mega Medicham;Alternativa;510;Gen 3;Lutador;Psíquico;https://assets.pokemon.com/assets/cms2/img/pokedex/full/308_f2.png
+309;Electrike;Base;295;Gen 3;Elétrico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/309.png
+310;Manectric;Base;475;Gen 3;Elétrico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/310.png
+310;Mega Manectric;Alternativa;575;Gen 3;Elétrico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/310_f2.png
+311;Plusle;Base;405;Gen 3;Elétrico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/311.png
+312;Minun;Base;405;Gen 3;Elétrico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/312.png
+313;Volbeat;Base;430;Gen 3;Inseto;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/313.png
+314;Illumise;Base;430;Gen 3;Inseto;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/314.png
+315;Roselia;Base;400;Gen 3;Planta;Veneno;https://assets.pokemon.com/assets/cms2/img/pokedex/full/315.png
+316;Gulpin;Base;302;Gen 3;Veneno;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/316.png
+317;Swalot;Base;467;Gen 3;Veneno;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/317.png
+318;Carvanha;Base;305;Gen 3;Água;Noturno;https://assets.pokemon.com/assets/cms2/img/pokedex/full/318.png
+319;Sharpedo;Base;460;Gen 3;Água;Noturno;https://assets.pokemon.com/assets/cms2/img/pokedex/full/319.png
+319;Mega Sharpedo;Alternativa;560;Gen 3;Água;Noturno;https://assets.pokemon.com/assets/cms2/img/pokedex/full/319_f2.png
+320;Wailmer;Base;400;Gen 3;Água;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/320.png
+321;Wailord;Base;500;Gen 3;Água;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/321.png
+322;Numel;Base;305;Gen 3;Fogo;Solo;https://assets.pokemon.com/assets/cms2/img/pokedex/full/322.png
+323;Camerupt;Base;460;Gen 3;Fogo;Solo;https://assets.pokemon.com/assets/cms2/img/pokedex/full/323.png
+323;Mega Camerupt;Alternativa;560;Gen 3;Fogo;Solo;https://assets.pokemon.com/assets/cms2/img/pokedex/full/323_f2.png
+324;Torkoal;Base;470;Gen 3;Fogo;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/324.png
+325;Spoink;Base;330;Gen 3;Psíquico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/325.png
+326;Grumpig;Base;470;Gen 3;Psíquico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/326.png
+327;Spinda;Base;360;Gen 3;Normal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/327.png
+328;Trapinch;Base;290;Gen 3;Solo;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/328.png
+329;Vibrava;Base;340;Gen 3;Solo;Dragão;https://assets.pokemon.com/assets/cms2/img/pokedex/full/329.png
+330;Flygon;Base;520;Gen 3;Solo;Dragão;https://assets.pokemon.com/assets/cms2/img/pokedex/full/330.png
+331;Cacnea;Base;335;Gen 3;Planta;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/331.png
+332;Cacturne;Base;475;Gen 3;Planta;Noturno;https://assets.pokemon.com/assets/cms2/img/pokedex/full/332.png
+333;Swablu;Base;310;Gen 3;Normal;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/333.png
+334;Altaria;Base;490;Gen 3;Dragão;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/334.png
+334;Mega Altaria;Alternativa;590;Gen 3;Dragão;Fada;https://assets.pokemon.com/assets/cms2/img/pokedex/full/334_f2.png
+335;Zangoose;Base;458;Gen 3;Normal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/335.png
+336;Seviper;Base;458;Gen 3;Veneno;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/336.png
+337;Lunatone;Base;460;Gen 3;Pedra;Psíquico;https://assets.pokemon.com/assets/cms2/img/pokedex/full/337.png
+338;Solrock;Base;460;Gen 3;Pedra;Psíquico;https://assets.pokemon.com/assets/cms2/img/pokedex/full/338.png
+339;Barboach;Base;288;Gen 3;Água;Solo;https://assets.pokemon.com/assets/cms2/img/pokedex/full/339.png
+340;Whiscash;Base;468;Gen 3;Água;Solo;https://assets.pokemon.com/assets/cms2/img/pokedex/full/340.png
+341;Corphish;Base;308;Gen 3;Água;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/341.png
+342;Crawdaunt;Base;468;Gen 3;Água;Noturno;https://assets.pokemon.com/assets/cms2/img/pokedex/full/342.png
+343;Baltoy;Base;300;Gen 3;Solo;Psíquico;https://assets.pokemon.com/assets/cms2/img/pokedex/full/343.png
+344;Claydol;Base;500;Gen 3;Solo;Psíquico;https://assets.pokemon.com/assets/cms2/img/pokedex/full/344.png
+345;Lileep;Base;355;Gen 3;Pedra;Planta;https://assets.pokemon.com/assets/cms2/img/pokedex/full/345.png
+346;Cradily;Base;495;Gen 3;Pedra;Planta;https://assets.pokemon.com/assets/cms2/img/pokedex/full/346.png
+347;Anorith;Base;355;Gen 3;Pedra;Inseto;https://assets.pokemon.com/assets/cms2/img/pokedex/full/347.png
+348;Armaldo;Base;495;Gen 3;Pedra;Inseto;https://assets.pokemon.com/assets/cms2/img/pokedex/full/348.png
+349;Feebas;Base;200;Gen 3;Água;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/349.png
+350;Milotic;Base;540;Gen 3;Água;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/350.png
+351;Castform;Base;420;Gen 3;Normal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/351.png
+351;Castform Sunny Form;Alternativa;420;Gen 3;Fogo;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/351_f2.png
+351;Castform Rainy Form;Alternativa;420;Gen 3;Água;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/351_f3.png
+351;Castform Snowy Form;Alternativa;420;Gen 3;Gelo;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/351_f4.png
+352;Kecleon;Base;440;Gen 3;Normal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/352.png
+353;Shuppet;Base;295;Gen 3;Fantasma;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/353.png
+354;Banette;Base;455;Gen 3;Fantasma;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/354.png
+354;Mega Banette;Alternativa;555;Gen 3;Fantasma;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/354_f2.png
+355;Duskull;Base;295;Gen 3;Fantasma;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/355.png
+356;Dusclops;Base;455;Gen 3;Fantasma;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/356.png
+357;Tropius;Base;460;Gen 3;Planta;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/357.png
+358;Chimecho;Base;455;Gen 3;Psíquico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/358.png
+359;Absol;Base;465;Gen 3;Noturno;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/359.png
+359;Mega Absol;Alternativa;565;Gen 3;Noturno;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/359_f2.png
+360;Wynaut;Base;260;Gen 3;Psíquico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/360.png
+361;Snorunt;Base;300;Gen 3;Gelo;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/361.png
+362;Glalie;Base;480;Gen 3;Gelo;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/362.png
+362;Mega Glalie;Alternativa;580;Gen 3;Gelo;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/362_f2.png
+363;Spheal;Base;290;Gen 3;Gelo;Água;https://assets.pokemon.com/assets/cms2/img/pokedex/full/363.png
+364;Sealeo;Base;410;Gen 3;Gelo;Água;https://assets.pokemon.com/assets/cms2/img/pokedex/full/364.png
+365;Walrein;Base;530;Gen 3;Gelo;Água;https://assets.pokemon.com/assets/cms2/img/pokedex/full/365.png
+366;Clamperl;Base;345;Gen 3;Água;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/366.png
+367;Huntail;Base;485;Gen 3;Água;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/367.png
+368;Gorebyss;Base;485;Gen 3;Água;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/368.png
+369;Relicanth;Base;485;Gen 3;Água;Pedra;https://assets.pokemon.com/assets/cms2/img/pokedex/full/369.png
+370;Luvdisc;Base;330;Gen 3;Água;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/370.png
+371;Bagon;Base;300;Gen 3;Dragão;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/371.png
+372;Shelgon;Base;420;Gen 3;Dragão;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/372.png
+373;Salamence;Base;600;Gen 3;Dragão;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/373.png
+373;Mega Salamence;Alternativa;700;Gen 3;Dragão;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/373_f2.png
+374;Beldum;Base;300;Gen 3;Metal;Psíquico;https://assets.pokemon.com/assets/cms2/img/pokedex/full/374.png
+375;Metang;Base;420;Gen 3;Metal;Psíquico;https://assets.pokemon.com/assets/cms2/img/pokedex/full/375.png
+376;Metagross;Base;600;Gen 3;Metal;Psíquico;https://assets.pokemon.com/assets/cms2/img/pokedex/full/376.png
+376;Mega Metagross;Alternativa;700;Gen 3;Metal;Psíquico;https://assets.pokemon.com/assets/cms2/img/pokedex/full/376_f2.png
+377;Regirock;Base;580;Gen 3;Pedra;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/377.png
+378;Regice;Base;580;Gen 3;Gelo;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/378.png
+379;Registeel;Base;580;Gen 3;Metal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/379.png
+380;Latias;Base;600;Gen 3;Dragão;Psíquico;https://assets.pokemon.com/assets/cms2/img/pokedex/full/380.png
+380;Mega Latias;Alternativa;700;Gen 3;Dragão;Psíquico;https://assets.pokemon.com/assets/cms2/img/pokedex/full/380_f2.png
+381;Latios;Base;600;Gen 3;Dragão;Psíquico;https://assets.pokemon.com/assets/cms2/img/pokedex/full/381.png
+381;Mega Latios;Alternativa;700;Gen 3;Dragão;Psíquico;https://assets.pokemon.com/assets/cms2/img/pokedex/full/381_f2.png
+382;Kyogre;Base;670;Gen 3;Água;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/382.png
+382;Primal Kyogre;Alternativa;770;Gen 3;Água;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/382_f2.png
+383;Groudon;Base;670;Gen 3;Solo;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/383.png
+383;Primal Groudon;Alternativa;770;Gen 3;Solo;Fogo;https://assets.pokemon.com/assets/cms2/img/pokedex/full/383_f2.png
+384;Rayquaza;Base;680;Gen 3;Dragão;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/384.png
+384;Mega Rayquaza;Alternativa;780;Gen 3;Dragão;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/384_f2.png
+385;Jirachi;Base;600;Gen 3;Metal;Psíquico;https://assets.pokemon.com/assets/cms2/img/pokedex/full/385.png
+386;Deoxys Normal Forme;Base;600;Gen 3;Psíquico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/386.png
+386;Deoxys Attack Forme;Alternativa;600;Gen 3;Psíquico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/386_f2.png
+386;Deoxys Defense Forme;Alternativa;600;Gen 3;Psíquico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/386_f3.png
+386;Deoxys Speed Forme;Alternativa;600;Gen 3;Psíquico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/386_f4.png
+387;Turtwig;Base;318;Gen 4;Planta;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/387.png
+388;Grotle;Base;405;Gen 4;Planta;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/388.png
+389;Torterra;Base;525;Gen 4;Planta;Solo;https://assets.pokemon.com/assets/cms2/img/pokedex/full/389.png
+390;Chimchar;Base;309;Gen 4;Fogo;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/390.png
+391;Monferno;Base;405;Gen 4;Fogo;Lutador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/391.png
+392;Infernape;Base;534;Gen 4;Fogo;Lutador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/392.png
+393;Piplup;Base;314;Gen 4;Água;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/393.png
+394;Prinplup;Base;405;Gen 4;Água;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/394.png
+395;Empoleon;Base;530;Gen 4;Água;Metal;https://assets.pokemon.com/assets/cms2/img/pokedex/full/395.png
+396;Starly;Base;245;Gen 4;Normal;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/396.png
+397;Staravia;Base;340;Gen 4;Normal;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/397.png
+398;Staraptor;Base;485;Gen 4;Normal;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/398.png
+399;Bidoof;Base;250;Gen 4;Normal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/399.png
+400;Bibarel;Base;410;Gen 4;Normal;Água;https://assets.pokemon.com/assets/cms2/img/pokedex/full/400.png
+401;Kricketot;Base;194;Gen 4;Inseto;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/401.png
+402;Kricketune;Base;384;Gen 4;Inseto;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/402.png
+403;Shinx;Base;263;Gen 4;Elétrico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/403.png
+404;Luxio;Base;363;Gen 4;Elétrico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/404.png
+405;Luxray;Base;523;Gen 4;Elétrico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/405.png
+406;Budew;Base;280;Gen 4;Planta;Veneno;https://assets.pokemon.com/assets/cms2/img/pokedex/full/406.png
+407;Roserade;Base;515;Gen 4;Planta;Veneno;https://assets.pokemon.com/assets/cms2/img/pokedex/full/407.png
+408;Cranidos;Base;350;Gen 4;Pedra;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/408.png
+409;Rampardos;Base;495;Gen 4;Pedra;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/409.png
+410;Shieldon;Base;350;Gen 4;Pedra;Metal;https://assets.pokemon.com/assets/cms2/img/pokedex/full/410.png
+411;Bastiodon;Base;495;Gen 4;Pedra;Metal;https://assets.pokemon.com/assets/cms2/img/pokedex/full/411.png
+412;Burmy Plant Cloak;Base;224;Gen 4;Inseto;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/412.png
+412;Burmy Sandy Cloak;Alternativa;224;Gen 4;Inseto;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/412_f2.png
+412;Burmy Trash Cloak;Alternativa;224;Gen 4;Inseto;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/412_f3.png
+413;Wormadam Plant Cloak;Base;424;Gen 4;Inseto;Planta;https://assets.pokemon.com/assets/cms2/img/pokedex/full/413.png
+413;Wormadam Sandy Cloak;Alternativa;424;Gen 4;Inseto;Solo;https://assets.pokemon.com/assets/cms2/img/pokedex/full/413_f2.png
+413;Wormadam Trash Cloak;Alternativa;424;Gen 4;Inseto;Metal;https://assets.pokemon.com/assets/cms2/img/pokedex/full/413_f3.png
+414;Mothim;Base;424;Gen 4;Inseto;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/414.png
+415;Combee;Base;244;Gen 4;Inseto;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/415.png
+416;Vespiquen;Base;474;Gen 4;Inseto;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/416.png
+417;Pachirisu;Base;405;Gen 4;Elétrico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/417.png
+418;Buizel;Base;330;Gen 4;Água;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/418.png
+419;Floatzel;Base;495;Gen 4;Água;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/419.png
+420;Cherubi;Base;275;Gen 4;Planta;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/420.png
+421;Cherrim;Base;450;Gen 4;Planta;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/421.png
+422;Shellos;Base;325;Gen 4;Água;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/422.png
+423;Gastrodon;Base;475;Gen 4;Água;Solo;https://assets.pokemon.com/assets/cms2/img/pokedex/full/423.png
+424;Ambipom;Base;482;Gen 4;Normal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/424.png
+425;Drifloon;Base;348;Gen 4;Fantasma;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/425.png
+426;Drifblim;Base;498;Gen 4;Fantasma;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/426.png
+427;Buneary;Base;350;Gen 4;Normal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/427.png
+428;Lopunny;Base;480;Gen 4;Normal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/428.png
+428;Mega Lopunny;Alternativa;580;Gen 4;Normal;Lutador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/428_f2.png
+429;Mismagius;Base;495;Gen 4;Fantasma;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/429.png
+430;Honchkrow;Base;505;Gen 4;Noturno;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/430.png
+431;Glameow;Base;310;Gen 4;Normal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/431.png
+432;Purugly;Base;452;Gen 4;Normal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/432.png
+433;Chingling;Base;285;Gen 4;Psíquico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/433.png
+434;Stunky;Base;329;Gen 4;Veneno;Noturno;https://assets.pokemon.com/assets/cms2/img/pokedex/full/434.png
+435;Skuntank;Base;479;Gen 4;Veneno;Noturno;https://assets.pokemon.com/assets/cms2/img/pokedex/full/435.png
+436;Bronzor;Base;300;Gen 4;Metal;Psíquico;https://assets.pokemon.com/assets/cms2/img/pokedex/full/436.png
+437;Bronzong;Base;500;Gen 4;Metal;Psíquico;https://assets.pokemon.com/assets/cms2/img/pokedex/full/437.png
+438;Bonsly;Base;290;Gen 4;Pedra;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/438.png
+439;Mime Jr.;Base;310;Gen 4;Psíquico;Fada;https://assets.pokemon.com/assets/cms2/img/pokedex/full/439.png
+440;Happiny;Base;220;Gen 4;Normal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/440.png
+441;Chatot;Base;411;Gen 4;Normal;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/441.png
+442;Spiritomb;Base;485;Gen 4;Fantasma;Noturno;https://assets.pokemon.com/assets/cms2/img/pokedex/full/442.png
+443;Gible;Base;300;Gen 4;Dragão;Solo;https://assets.pokemon.com/assets/cms2/img/pokedex/full/443.png
+444;Gabite;Base;410;Gen 4;Dragão;Solo;https://assets.pokemon.com/assets/cms2/img/pokedex/full/444.png
+445;Garchomp;Base;600;Gen 4;Dragão;Solo;https://assets.pokemon.com/assets/cms2/img/pokedex/full/445.png
+445;Mega Garchomp;Alternativa;700;Gen 4;Dragão;Solo;https://assets.pokemon.com/assets/cms2/img/pokedex/full/445_f2.png
+446;Munchlax;Base;390;Gen 4;Normal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/446.png
+447;Riolu;Base;285;Gen 4;Lutador;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/447.png
+448;Lucario;Base;525;Gen 4;Lutador;Metal;https://assets.pokemon.com/assets/cms2/img/pokedex/full/448.png
+448;Mega Lucario;Alternativa;625;Gen 4;Lutador;Metal;https://assets.pokemon.com/assets/cms2/img/pokedex/full/448_f2.png
+449;Hippopotas;Base;330;Gen 4;Solo;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/449.png
+450;Hippowdon;Base;525;Gen 4;Solo;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/450.png
+451;Skorupi;Base;330;Gen 4;Veneno;Inseto;https://assets.pokemon.com/assets/cms2/img/pokedex/full/451.png
+452;Drapion;Base;500;Gen 4;Veneno;Noturno;https://assets.pokemon.com/assets/cms2/img/pokedex/full/452.png
+453;Croagunk;Base;300;Gen 4;Veneno;Lutador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/453.png
+454;Toxicroak;Base;490;Gen 4;Veneno;Lutador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/454.png
+455;Carnivine;Base;454;Gen 4;Planta;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/455.png
+456;Finneon;Base;330;Gen 4;Água;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/456.png
+457;Lumineon;Base;460;Gen 4;Água;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/457.png
+458;Mantyke;Base;345;Gen 4;Água;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/458.png
+459;Snover;Base;334;Gen 4;Planta;Gelo;https://assets.pokemon.com/assets/cms2/img/pokedex/full/459.png
+460;Abomasnow;Base;494;Gen 4;Planta;Gelo;https://assets.pokemon.com/assets/cms2/img/pokedex/full/460.png
+460;Mega Abomasnow;Alternativa;594;Gen 4;Planta;Gelo;https://assets.pokemon.com/assets/cms2/img/pokedex/full/460_f2.png
+461;Weavile;Base;510;Gen 4;Noturno;Gelo;https://assets.pokemon.com/assets/cms2/img/pokedex/full/461.png
+462;Magnezone;Base;535;Gen 4;Elétrico;Metal;https://assets.pokemon.com/assets/cms2/img/pokedex/full/462.png
+463;Lickilicky;Base;515;Gen 4;Normal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/463.png
+464;Rhyperior;Base;535;Gen 4;Solo;Pedra;https://assets.pokemon.com/assets/cms2/img/pokedex/full/464.png
+465;Tangrowth;Base;535;Gen 4;Planta;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/465.png
+466;Electivire;Base;540;Gen 4;Elétrico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/466.png
+467;Magmortar;Base;540;Gen 4;Fogo;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/467.png
+468;Togekiss;Base;545;Gen 4;Fada;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/468.png
+469;Yanmega;Base;515;Gen 4;Inseto;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/469.png
+470;Leafeon;Base;525;Gen 4;Planta;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/470.png
+471;Glaceon;Base;525;Gen 4;Gelo;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/471.png
+472;Gliscor;Base;510;Gen 4;Solo;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/472.png
+473;Mamoswine;Base;530;Gen 4;Gelo;Solo;https://assets.pokemon.com/assets/cms2/img/pokedex/full/473.png
+474;Porygon-Z;Base;535;Gen 4;Normal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/474.png
+475;Gallade;Base;518;Gen 4;Psíquico;Lutador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/475.png
+475;Mega Gallade;Alternativa;618;Gen 4;Psíquico;Lutador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/475_f2.png
+476;Probopass;Base;525;Gen 4;Pedra;Metal;https://assets.pokemon.com/assets/cms2/img/pokedex/full/476.png
+477;Dusknoir;Base;525;Gen 4;Fantasma;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/477.png
+478;Froslass;Base;480;Gen 4;Gelo;Fantasma;https://assets.pokemon.com/assets/cms2/img/pokedex/full/478.png
+479;Rotom;Base;440;Gen 4;Elétrico;Fantasma;https://assets.pokemon.com/assets/cms2/img/pokedex/full/479.png
+479;Heat Rotom;Alternativa;520;Gen 4;Elétrico;Fogo;https://assets.pokemon.com/assets/cms2/img/pokedex/full/479_f2.png
+479;Wash Rotom;Alternativa;520;Gen 4;Elétrico;Água;https://assets.pokemon.com/assets/cms2/img/pokedex/full/479_f3.png
+479;Frost Rotom;Alternativa;520;Gen 4;Elétrico;Gelo;https://assets.pokemon.com/assets/cms2/img/pokedex/full/479_f4.png
+479;Fan Rotom;Alternativa;520;Gen 4;Elétrico;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/479_f5.png
+479;Mow Rotom;Alternativa;520;Gen 4;Elétrico;Planta;https://assets.pokemon.com/assets/cms2/img/pokedex/full/479_f6.png
+480;Uxie;Base;580;Gen 4;Psíquico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/480.png
+481;Mesprit;Base;580;Gen 4;Psíquico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/481.png
+482;Azelf;Base;580;Gen 4;Psíquico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/482.png
+483;Dialga;Base;680;Gen 4;Metal;Dragão;https://assets.pokemon.com/assets/cms2/img/pokedex/full/483.png
+483;Dialga Origin Forme;Alternativa;680;Gen 4;Metal;Dragão;https://assets.pokemon.com/assets/cms2/img/pokedex/full/483_f2.png
+484;Palkia;Base;680;Gen 4;Água;Dragão;https://assets.pokemon.com/assets/cms2/img/pokedex/full/484.png
+484;Palkia Origin Forme;Alternativa;680;Gen 4;Água;Dragão;https://assets.pokemon.com/assets/cms2/img/pokedex/full/484_f2.png
+485;Heatran;Base;600;Gen 4;Fogo;Metal;https://assets.pokemon.com/assets/cms2/img/pokedex/full/485.png
+486;Regigigas;Base;670;Gen 4;Normal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/486.png
+487;Giratina Altered Forme;Base;680;Gen 4;Fantasma;Dragão;https://assets.pokemon.com/assets/cms2/img/pokedex/full/487.png
+487;Giratina Origin Forme;Alternativa;680;Gen 4;Fantasma;Dragão;https://assets.pokemon.com/assets/cms2/img/pokedex/full/487_f2.png
+488;Cresselia;Base;600;Gen 4;Psíquico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/488.png
+489;Phione;Base;480;Gen 4;Água;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/489.png
+490;Manaphy;Base;600;Gen 4;Água;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/490.png
+491;Darkrai;Base;600;Gen 4;Noturno;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/491.png
+492;Shaymin Land Forme;Base;600;Gen 4;Planta;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/492.png
+492;Shaymin Sky Forme;Alternativa;600;Gen 4;Planta;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/492_f2.png
+493;Arceus;Base;720;Gen 4;Normal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/493.png
+494;Victini;Base;600;Gen 5;Psíquico;Fogo;https://assets.pokemon.com/assets/cms2/img/pokedex/full/494.png
+495;Snivy;Base;308;Gen 5;Planta;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/495.png
+496;Servine;Base;413;Gen 5;Planta;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/496.png
+497;Serperior;Base;528;Gen 5;Planta;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/497.png
+498;Tepig;Base;308;Gen 5;Fogo;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/498.png
+499;Pignite;Base;418;Gen 5;Fogo;Lutador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/499.png
+500;Emboar;Base;528;Gen 5;Fogo;Lutador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/500.png
+501;Oshawott;Base;308;Gen 5;Água;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/501.png
+502;Dewott;Base;413;Gen 5;Água;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/502.png
+503;Samurott;Base;528;Gen 5;Água;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/503.png
+503;Hisuian Samurott;Alternativa;528;Gen 5;Água;Noturno;https://assets.pokemon.com/assets/cms2/img/pokedex/full/503_f2.png
+504;Patrat;Base;255;Gen 5;Normal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/504.png
+505;Watchog;Base;420;Gen 5;Normal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/505.png
+506;Lillipup;Base;275;Gen 5;Normal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/506.png
+507;Herdier;Base;370;Gen 5;Normal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/507.png
+508;Stoutland;Base;500;Gen 5;Normal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/508.png
+509;Purrloin;Base;281;Gen 5;Noturno;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/509.png
+510;Liepard;Base;446;Gen 5;Noturno;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/510.png
+511;Pansage;Base;316;Gen 5;Planta;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/511.png
+512;Simisage;Base;498;Gen 5;Planta;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/512.png
+513;Pansear;Base;316;Gen 5;Fogo;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/513.png
+514;Simisear;Base;498;Gen 5;Fogo;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/514.png
+515;Panpour;Base;316;Gen 5;Água;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/515.png
+516;Simipour;Base;498;Gen 5;Água;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/516.png
+517;Munna;Base;292;Gen 5;Psíquico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/517.png
+518;Musharna;Base;487;Gen 5;Psíquico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/518.png
+519;Pidove;Base;264;Gen 5;Normal;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/519.png
+520;Tranquill;Base;358;Gen 5;Normal;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/520.png
+521;Unfezant;Base;488;Gen 5;Normal;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/521.png
+522;Blitzle;Base;295;Gen 5;Elétrico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/522.png
+523;Zebstrika;Base;497;Gen 5;Elétrico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/523.png
+524;Roggenrola;Base;280;Gen 5;Pedra;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/524.png
+525;Boldore;Base;390;Gen 5;Pedra;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/525.png
+526;Gigalith;Base;515;Gen 5;Pedra;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/526.png
+527;Woobat;Base;323;Gen 5;Psíquico;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/527.png
+528;Swoobat;Base;425;Gen 5;Psíquico;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/528.png
+529;Drilbur;Base;328;Gen 5;Solo;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/529.png
+530;Excadrill;Base;508;Gen 5;Solo;Metal;https://assets.pokemon.com/assets/cms2/img/pokedex/full/530.png
+531;Audino;Base;445;Gen 5;Normal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/531.png
+531;Mega Audino;Alternativa;545;Gen 5;Normal;Fada;https://assets.pokemon.com/assets/cms2/img/pokedex/full/531_f2.png
+532;Timburr;Base;305;Gen 5;Lutador;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/532.png
+533;Gurdurr;Base;405;Gen 5;Lutador;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/533.png
+534;Conkeldurr;Base;505;Gen 5;Lutador;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/534.png
+535;Tympole;Base;294;Gen 5;Água;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/535.png
+536;Palpitoad;Base;384;Gen 5;Água;Solo;https://assets.pokemon.com/assets/cms2/img/pokedex/full/536.png
+537;Seismitoad;Base;509;Gen 5;Água;Solo;https://assets.pokemon.com/assets/cms2/img/pokedex/full/537.png
+538;Throh;Base;465;Gen 5;Lutador;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/538.png
+539;Sawk;Base;465;Gen 5;Lutador;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/539.png
+540;Sewaddle;Base;310;Gen 5;Inseto;Planta;https://assets.pokemon.com/assets/cms2/img/pokedex/full/540.png
+541;Swadloon;Base;380;Gen 5;Inseto;Planta;https://assets.pokemon.com/assets/cms2/img/pokedex/full/541.png
+542;Leavanny;Base;500;Gen 5;Inseto;Planta;https://assets.pokemon.com/assets/cms2/img/pokedex/full/542.png
+543;Venipede;Base;260;Gen 5;Inseto;Veneno;https://assets.pokemon.com/assets/cms2/img/pokedex/full/543.png
+544;Whirlipede;Base;360;Gen 5;Inseto;Veneno;https://assets.pokemon.com/assets/cms2/img/pokedex/full/544.png
+545;Scolipede;Base;485;Gen 5;Inseto;Veneno;https://assets.pokemon.com/assets/cms2/img/pokedex/full/545.png
+546;Cottonee;Base;280;Gen 5;Planta;Fada;https://assets.pokemon.com/assets/cms2/img/pokedex/full/546.png
+547;Whimsicott;Base;480;Gen 5;Planta;Fada;https://assets.pokemon.com/assets/cms2/img/pokedex/full/547.png
+548;Petilil;Base;280;Gen 5;Planta;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/548.png
+549;Lilligant;Base;480;Gen 5;Planta;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/549.png
+549;Hisuian Lilligant;Alternativa;480;Gen 5;Planta;Lutador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/549_f2.png
+550;Basculin Red-Striped Form;Base;460;Gen 5;Água;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/550.png
+550;Basculin Blue-Striped Form;Alternativa;460;Gen 5;Água;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/550_f2.png
+550;Basculin White-Striped Form;Alternativa;460;Gen 5;Água;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/550_f3.png
+551;Sandile;Base;292;Gen 5;Solo;Noturno;https://assets.pokemon.com/assets/cms2/img/pokedex/full/551.png
+552;Krokorok;Base;351;Gen 5;Solo;Noturno;https://assets.pokemon.com/assets/cms2/img/pokedex/full/552.png
+553;Krookodile;Base;519;Gen 5;Solo;Noturno;https://assets.pokemon.com/assets/cms2/img/pokedex/full/553.png
+554;Darumaka;Base;315;Gen 5;Fogo;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/554.png
+554;Galarian Darumaka;Alternativa;315;Gen 5;Gelo;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/554_f2.png
+555;Darmanitan Standard Mode;Base;480;Gen 5;Fogo;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/555.png
+555;Darmanitan Zen Mode;Alternativa;540;Gen 5;Fogo;Psíquico;https://img.pokemondb.net/artwork/darmanitan-zen.jpg
+555;Darmanitan Galarian Standard Mode;Alternativa;480;Gen 5;Gelo;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/555_f2.png
+555;Darmanitan Galarian Zen Mode;Alternativa;540;Gen 5;Gelo;Fogo;https://img.pokemondb.net/artwork/darmanitan-galarian-zen.jpg
+556;Maractus;Base;461;Gen 5;Planta;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/556.png
+557;Dwebble;Base;325;Gen 5;Inseto;Pedra;https://assets.pokemon.com/assets/cms2/img/pokedex/full/557.png
+558;Crustle;Base;485;Gen 5;Inseto;Pedra;https://assets.pokemon.com/assets/cms2/img/pokedex/full/558.png
+559;Scraggy;Base;348;Gen 5;Noturno;Lutador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/559.png
+560;Scrafty;Base;488;Gen 5;Noturno;Lutador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/560.png
+561;Sigilyph;Base;490;Gen 5;Psíquico;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/561.png
+562;Yamask;Base;303;Gen 5;Fantasma;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/562.png
+562;Galarian Yamask;Alternativa;303;Gen 5;Solo;Fantasma;https://assets.pokemon.com/assets/cms2/img/pokedex/full/562_f2.png
+563;Cofagrigus;Base;483;Gen 5;Fantasma;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/563.png
+564;Tirtouga;Base;355;Gen 5;Água;Pedra;https://assets.pokemon.com/assets/cms2/img/pokedex/full/564.png
+565;Carracosta;Base;495;Gen 5;Água;Pedra;https://assets.pokemon.com/assets/cms2/img/pokedex/full/565.png
+566;Archen;Base;401;Gen 5;Pedra;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/566.png
+567;Archeops;Base;567;Gen 5;Pedra;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/567.png
+568;Trubbish;Base;329;Gen 5;Veneno;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/568.png
+569;Garbodor;Base;474;Gen 5;Veneno;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/569.png
+570;Zorua;Base;330;Gen 5;Noturno;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/570.png
+570;Hisuian Zorua;Alternativa;330;Gen 5;Normal;Fantasma;https://assets.pokemon.com/assets/cms2/img/pokedex/full/570_f2.png
+571;Zoroark;Base;510;Gen 5;Noturno;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/571.png
+571;Hisuian Zoroark;Alternativa;510;Gen 5;Normal;Fantasma;https://assets.pokemon.com/assets/cms2/img/pokedex/full/571_f2.png
+572;Minccino;Base;300;Gen 5;Normal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/572.png
+573;Cinccino;Base;470;Gen 5;Normal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/573.png
+574;Gothita;Base;290;Gen 5;Psíquico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/574.png
+575;Gothorita;Base;390;Gen 5;Psíquico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/575.png
+576;Gothitelle;Base;490;Gen 5;Psíquico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/576.png
+577;Solosis;Base;290;Gen 5;Psíquico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/577.png
+578;Duosion;Base;370;Gen 5;Psíquico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/578.png
+579;Reuniclus;Base;490;Gen 5;Psíquico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/579.png
+580;Ducklett;Base;305;Gen 5;Água;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/580.png
+581;Swanna;Base;473;Gen 5;Água;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/581.png
+582;Vanillite;Base;305;Gen 5;Gelo;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/582.png
+583;Vanillish;Base;395;Gen 5;Gelo;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/583.png
+584;Vanilluxe;Base;535;Gen 5;Gelo;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/584.png
+585;Deerling;Base;335;Gen 5;Normal;Planta;https://assets.pokemon.com/assets/cms2/img/pokedex/full/585.png
+586;Sawsbuck;Base;475;Gen 5;Normal;Planta;https://assets.pokemon.com/assets/cms2/img/pokedex/full/586.png
+587;Emolga;Base;428;Gen 5;Elétrico;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/587.png
+588;Karrablast;Base;315;Gen 5;Inseto;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/588.png
+589;Escavalier;Base;495;Gen 5;Inseto;Metal;https://assets.pokemon.com/assets/cms2/img/pokedex/full/589.png
+590;Foongus;Base;294;Gen 5;Planta;Veneno;https://assets.pokemon.com/assets/cms2/img/pokedex/full/590.png
+591;Amoonguss;Base;464;Gen 5;Planta;Veneno;https://assets.pokemon.com/assets/cms2/img/pokedex/full/591.png
+592;Frillish;Base;335;Gen 5;Água;Fantasma;https://assets.pokemon.com/assets/cms2/img/pokedex/full/592.png
+593;Jellicent;Base;480;Gen 5;Água;Fantasma;https://assets.pokemon.com/assets/cms2/img/pokedex/full/593.png
+594;Alomomola;Base;470;Gen 5;Água;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/594.png
+595;Joltik;Base;319;Gen 5;Inseto;Elétrico;https://assets.pokemon.com/assets/cms2/img/pokedex/full/595.png
+596;Galvantula;Base;472;Gen 5;Inseto;Elétrico;https://assets.pokemon.com/assets/cms2/img/pokedex/full/596.png
+597;Ferroseed;Base;305;Gen 5;Planta;Metal;https://assets.pokemon.com/assets/cms2/img/pokedex/full/597.png
+598;Ferrothorn;Base;489;Gen 5;Planta;Metal;https://assets.pokemon.com/assets/cms2/img/pokedex/full/598.png
+599;Klink;Base;300;Gen 5;Metal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/599.png
+600;Klang;Base;440;Gen 5;Metal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/600.png
+601;Klinklang;Base;520;Gen 5;Metal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/601.png
+602;Tynamo;Base;275;Gen 5;Elétrico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/602.png
+603;Eelektrik;Base;405;Gen 5;Elétrico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/603.png
+604;Eelektross;Base;515;Gen 5;Elétrico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/604.png
+605;Elgyem;Base;335;Gen 5;Psíquico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/605.png
+606;Beheeyem;Base;485;Gen 5;Psíquico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/606.png
+607;Litwick;Base;275;Gen 5;Fantasma;Fogo;https://assets.pokemon.com/assets/cms2/img/pokedex/full/607.png
+608;Lampent;Base;370;Gen 5;Fantasma;Fogo;https://assets.pokemon.com/assets/cms2/img/pokedex/full/608.png
+609;Chandelure;Base;520;Gen 5;Fantasma;Fogo;https://assets.pokemon.com/assets/cms2/img/pokedex/full/609.png
+610;Axew;Base;320;Gen 5;Dragão;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/610.png
+611;Fraxure;Base;410;Gen 5;Dragão;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/611.png
+612;Haxorus;Base;540;Gen 5;Dragão;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/612.png
+613;Cubchoo;Base;305;Gen 5;Gelo;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/613.png
+614;Beartic;Base;505;Gen 5;Gelo;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/614.png
+615;Cryogonal;Base;515;Gen 5;Gelo;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/615.png
+616;Shelmet;Base;305;Gen 5;Inseto;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/616.png
+617;Accelgor;Base;495;Gen 5;Inseto;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/617.png
+618;Stunfisk;Base;471;Gen 5;Solo;Elétrico;https://assets.pokemon.com/assets/cms2/img/pokedex/full/618.png
+618;Galarian Stunfisk;Alternativa;471;Gen 5;Solo;Metal;https://assets.pokemon.com/assets/cms2/img/pokedex/full/618_f2.png
+619;Mienfoo;Base;350;Gen 5;Lutador;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/619.png
+620;Mienshao;Base;510;Gen 5;Lutador;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/620.png
+621;Druddigon;Base;485;Gen 5;Dragão;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/621.png
+622;Golett;Base;303;Gen 5;Solo;Fantasma;https://assets.pokemon.com/assets/cms2/img/pokedex/full/622.png
+623;Golurk;Base;483;Gen 5;Solo;Fantasma;https://assets.pokemon.com/assets/cms2/img/pokedex/full/623.png
+624;Pawniard;Base;340;Gen 5;Noturno;Metal;https://assets.pokemon.com/assets/cms2/img/pokedex/full/624.png
+625;Bisharp;Base;490;Gen 5;Noturno;Metal;https://assets.pokemon.com/assets/cms2/img/pokedex/full/625.png
+626;Bouffalant;Base;490;Gen 5;Normal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/626.png
+627;Rufflet;Base;350;Gen 5;Normal;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/627.png
+628;Braviary;Base;510;Gen 5;Normal;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/628.png
+628;Hisuian Braviary;Alternativa;510;Gen 5;Psíquico;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/628_f2.png
+629;Vullaby;Base;370;Gen 5;Noturno;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/629.png
+630;Mandibuzz;Base;510;Gen 5;Noturno;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/630.png
+631;Heatmor;Base;484;Gen 5;Fogo;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/631.png
+632;Durant;Base;484;Gen 5;Inseto;Metal;https://assets.pokemon.com/assets/cms2/img/pokedex/full/632.png
+633;Deino;Base;300;Gen 5;Noturno;Dragão;https://assets.pokemon.com/assets/cms2/img/pokedex/full/633.png
+634;Zweilous;Base;420;Gen 5;Noturno;Dragão;https://assets.pokemon.com/assets/cms2/img/pokedex/full/634.png
+635;Hydreigon;Base;600;Gen 5;Noturno;Dragão;https://assets.pokemon.com/assets/cms2/img/pokedex/full/635.png
+636;Larvesta;Base;360;Gen 5;Inseto;Fogo;https://assets.pokemon.com/assets/cms2/img/pokedex/full/636.png
+637;Volcarona;Base;550;Gen 5;Inseto;Fogo;https://assets.pokemon.com/assets/cms2/img/pokedex/full/637.png
+638;Cobalion;Base;580;Gen 5;Metal;Lutador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/638.png
+639;Terrakion;Base;580;Gen 5;Pedra;Lutador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/639.png
+640;Virizion;Base;580;Gen 5;Planta;Lutador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/640.png
+641;Tornadus Incarnate Forme;Base;580;Gen 5;Voador;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/641.png
+641;Tornadus Therian Forme;Alternativa;580;Gen 5;Voador;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/641_f2.png
+642;Thundurus Incarnate Forme;Base;580;Gen 5;Elétrico;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/642.png
+642;Thundurus Therian Forme;Alternativa;580;Gen 5;Elétrico;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/642_f2.png
+643;Reshiram;Base;680;Gen 5;Dragão;Fogo;https://assets.pokemon.com/assets/cms2/img/pokedex/full/643.png
+644;Zekrom;Base;680;Gen 5;Dragão;Elétrico;https://assets.pokemon.com/assets/cms2/img/pokedex/full/644.png
+645;Landorus Incarnate Forme;Base;600;Gen 5;Solo;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/645.png
+645;Landorus Therian Forme;Alternativa;600;Gen 5;Solo;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/645_f2.png
+646;Kyurem;Base;660;Gen 5;Dragão;Gelo;https://assets.pokemon.com/assets/cms2/img/pokedex/full/646.png
+646;White Kyurem;Alternativa;700;Gen 5;Dragão;Gelo;https://assets.pokemon.com/assets/cms2/img/pokedex/full/646_f3.png
+646;Black Kyurem;Alternativa;700;Gen 5;Dragão;Gelo;https://assets.pokemon.com/assets/cms2/img/pokedex/full/646_f2.png
+647;Keldeo Ordinary Form;Base;580;Gen 5;Água;Lutador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/647.png
+647;Keldeo Resolute Form;Alternativa;580;Gen 5;Água;Lutador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/647_f2.png
+648;Meloetta Aria Forme;Base;600;Gen 5;Normal;Psíquico;https://assets.pokemon.com/assets/cms2/img/pokedex/full/648.png
+648;Meloetta Pirouette Forme;Alternativa;600;Gen 5;Normal;Lutador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/648_f2.png
+649;Genesect;Base;600;Gen 5;Inseto;Metal;https://assets.pokemon.com/assets/cms2/img/pokedex/full/649.png
+650;Chespin;Base;313;Gen 6;Planta;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/650.png
+651;Quilladin;Base;405;Gen 6;Planta;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/651.png
+652;Chesnaught;Base;530;Gen 6;Planta;Lutador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/652.png
+653;Fennekin;Base;307;Gen 6;Fogo;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/653.png
+654;Braixen;Base;409;Gen 6;Fogo;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/654.png
+655;Delphox;Base;534;Gen 6;Fogo;Psíquico;https://assets.pokemon.com/assets/cms2/img/pokedex/full/655.png
+656;Froakie;Base;314;Gen 6;Água;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/656.png
+657;Frogadier;Base;405;Gen 6;Água;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/657.png
+658;Greninja;Base;530;Gen 6;Água;Noturno;https://assets.pokemon.com/assets/cms2/img/pokedex/full/658.png
+658;Ash-Greninja;Alternativa;640;Gen 6;Água;Noturno;https://assets.pokemon.com/assets/cms2/img/pokedex/full/658_f2.png
+659;Bunnelby;Base;237;Gen 6;Normal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/659.png
+660;Diggersby;Base;423;Gen 6;Normal;Solo;https://assets.pokemon.com/assets/cms2/img/pokedex/full/660.png
+661;Fletchling;Base;278;Gen 6;Normal;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/661.png
+662;Fletchinder;Base;382;Gen 6;Fogo;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/662.png
+663;Talonflame;Base;499;Gen 6;Fogo;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/663.png
+664;Scatterbug;Base;200;Gen 6;Inseto;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/664.png
+665;Spewpa;Base;213;Gen 6;Inseto;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/665.png
+666;Vivillon;Base;411;Gen 6;Inseto;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/666.png
+667;Litleo;Base;369;Gen 6;Fogo;Normal;https://assets.pokemon.com/assets/cms2/img/pokedex/full/667.png
+668;Pyroar;Base;507;Gen 6;Fogo;Normal;https://assets.pokemon.com/assets/cms2/img/pokedex/full/668.png
+669;Flabébé;Base;303;Gen 6;Fada;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/669.png
+670;Floette;Base;371;Gen 6;Fada;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/670.png
+671;Florges;Base;552;Gen 6;Fada;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/671.png
+672;Skiddo;Base;350;Gen 6;Planta;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/672.png
+673;Gogoat;Base;531;Gen 6;Planta;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/673.png
+674;Pancham;Base;348;Gen 6;Lutador;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/674.png
+675;Pangoro;Base;495;Gen 6;Lutador;Noturno;https://assets.pokemon.com/assets/cms2/img/pokedex/full/675.png
+676;Furfrou;Base;472;Gen 6;Normal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/676.png
+677;Espurr;Base;355;Gen 6;Psíquico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/677.png
+678;Meowstic Male;Base;466;Gen 6;Psíquico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/678.png
+678;Meowstic Female;Alternativa;466;Gen 6;Psíquico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/678_f2.png
+679;Honedge;Base;325;Gen 6;Metal;Fantasma;https://assets.pokemon.com/assets/cms2/img/pokedex/full/679.png
+680;Doublade;Base;448;Gen 6;Metal;Fantasma;https://assets.pokemon.com/assets/cms2/img/pokedex/full/680.png
+681;Aegislash Shield Forme;Base;500;Gen 6;Metal;Fantasma;https://assets.pokemon.com/assets/cms2/img/pokedex/full/681.png
+681;Aegislash Blade Forme;Alternativa;500;Gen 6;Metal;Fantasma;https://assets.pokemon.com/assets/cms2/img/pokedex/full/681_f2.png
+682;Spritzee;Base;341;Gen 6;Fada;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/682.png
+683;Aromatisse;Base;462;Gen 6;Fada;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/683.png
+684;Swirlix;Base;341;Gen 6;Fada;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/684.png
+685;Slurpuff;Base;480;Gen 6;Fada;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/685.png
+686;Inkay;Base;288;Gen 6;Noturno;Psíquico;https://assets.pokemon.com/assets/cms2/img/pokedex/full/686.png
+687;Malamar;Base;482;Gen 6;Noturno;Psíquico;https://assets.pokemon.com/assets/cms2/img/pokedex/full/687.png
+688;Binacle;Base;306;Gen 6;Pedra;Água;https://assets.pokemon.com/assets/cms2/img/pokedex/full/688.png
+689;Barbaracle;Base;500;Gen 6;Pedra;Água;https://assets.pokemon.com/assets/cms2/img/pokedex/full/689.png
+690;Skrelp;Base;320;Gen 6;Veneno;Água;https://assets.pokemon.com/assets/cms2/img/pokedex/full/690.png
+691;Dragalge;Base;494;Gen 6;Veneno;Dragão;https://assets.pokemon.com/assets/cms2/img/pokedex/full/691.png
+692;Clauncher;Base;330;Gen 6;Água;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/692.png
+693;Clawitzer;Base;500;Gen 6;Água;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/693.png
+694;Helioptile;Base;289;Gen 6;Elétrico;Normal;https://assets.pokemon.com/assets/cms2/img/pokedex/full/694.png
+695;Heliolisk;Base;481;Gen 6;Elétrico;Normal;https://assets.pokemon.com/assets/cms2/img/pokedex/full/695.png
+696;Tyrunt;Base;362;Gen 6;Pedra;Dragão;https://assets.pokemon.com/assets/cms2/img/pokedex/full/696.png
+697;Tyrantrum;Base;521;Gen 6;Pedra;Dragão;https://assets.pokemon.com/assets/cms2/img/pokedex/full/697.png
+698;Amaura;Base;362;Gen 6;Pedra;Gelo;https://assets.pokemon.com/assets/cms2/img/pokedex/full/698.png
+699;Aurorus;Base;521;Gen 6;Pedra;Gelo;https://assets.pokemon.com/assets/cms2/img/pokedex/full/699.png
+700;Sylveon;Base;525;Gen 6;Fada;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/700.png
+701;Hawlucha;Base;500;Gen 6;Lutador;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/701.png
+702;Dedenne;Base;431;Gen 6;Elétrico;Fada;https://assets.pokemon.com/assets/cms2/img/pokedex/full/702.png
+703;Carbink;Base;500;Gen 6;Pedra;Fada;https://assets.pokemon.com/assets/cms2/img/pokedex/full/703.png
+704;Goomy;Base;300;Gen 6;Dragão;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/704.png
+705;Sliggoo;Base;452;Gen 6;Dragão;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/705.png
+705;Hisuian Sliggoo;Alternativa;452;Gen 6;Dragão;Metal;https://assets.pokemon.com/assets/cms2/img/pokedex/full/705_f2.png
+706;Goodra;Base;600;Gen 6;Dragão;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/706.png
+706;Hisuian Goodra;Alternativa;600;Gen 6;Dragão;Metal;https://assets.pokemon.com/assets/cms2/img/pokedex/full/706_f2.png
+707;Klefki;Base;470;Gen 6;Metal;Fada;https://assets.pokemon.com/assets/cms2/img/pokedex/full/707.png
+708;Phantump;Base;309;Gen 6;Fantasma;Planta;https://assets.pokemon.com/assets/cms2/img/pokedex/full/708.png
+709;Trevenant;Base;474;Gen 6;Fantasma;Planta;https://assets.pokemon.com/assets/cms2/img/pokedex/full/709.png
+710;Pumpkaboo Average Size;Base;335;Gen 6;Fantasma;Planta;https://assets.pokemon.com/assets/cms2/img/pokedex/full/710.png
+710;Pumpkaboo Small Size;Alternativa;335;Gen 6;Fantasma;Planta;https://assets.pokemon.com/assets/cms2/img/pokedex/full/710_f2.png
+710;Pumpkaboo Large Size;Alternativa;335;Gen 6;Fantasma;Planta;https://assets.pokemon.com/assets/cms2/img/pokedex/full/710_f3.png
+710;Pumpkaboo Super Size;Alternativa;335;Gen 6;Fantasma;Planta;https://assets.pokemon.com/assets/cms2/img/pokedex/full/710_f4.png
+711;Gourgeist Average Size;Base;494;Gen 6;Fantasma;Planta;https://assets.pokemon.com/assets/cms2/img/pokedex/full/711.png
+711;Gourgeist Small Size;Alternativa;494;Gen 6;Fantasma;Planta;https://assets.pokemon.com/assets/cms2/img/pokedex/full/711_f2.png
+711;Gourgeist Large Size;Alternativa;494;Gen 6;Fantasma;Planta;https://assets.pokemon.com/assets/cms2/img/pokedex/full/711_f3.png
+711;Gourgeist Super Size;Alternativa;494;Gen 6;Fantasma;Planta;https://assets.pokemon.com/assets/cms2/img/pokedex/full/711_f4.png
+712;Bergmite;Base;304;Gen 6;Gelo;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/712.png
+713;Avalugg;Base;514;Gen 6;Gelo;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/713.png
+713;Hisuian Avalugg;Alternativa;514;Gen 6;Gelo;Pedra;https://assets.pokemon.com/assets/cms2/img/pokedex/full/713_f2.png
+714;Noibat;Base;245;Gen 6;Voador;Dragão;https://assets.pokemon.com/assets/cms2/img/pokedex/full/714.png
+715;Noivern;Base;535;Gen 6;Voador;Dragão;https://assets.pokemon.com/assets/cms2/img/pokedex/full/715.png
+716;Xerneas;Base;680;Gen 6;Fada;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/716.png
+717;Yveltal;Base;680;Gen 6;Noturno;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/717.png
+718;Zygarde 50% Forme;Base;600;Gen 6;Dragão;Solo;https://assets.pokemon.com/assets/cms2/img/pokedex/full/718.png
+718;Zygarde 10% Forme;Alternativa;486;Gen 6;Dragão;Solo;https://assets.pokemon.com/assets/cms2/img/pokedex/full/718_f2.png
+718;Zygarde Complete Forme;Alternativa;708;Gen 6;Dragão;Solo;https://assets.pokemon.com/assets/cms2/img/pokedex/full/718_f3.png
+719;Diancie;Base;600;Gen 6;Pedra;Fada;https://assets.pokemon.com/assets/cms2/img/pokedex/full/719.png
+719;Mega Diancie;Alternativa;700;Gen 6;Pedra;Fada;https://assets.pokemon.com/assets/cms2/img/pokedex/full/719_f2.png
+720;Hoopa Confined;Base;600;Gen 6;Psíquico;Fantasma;https://assets.pokemon.com/assets/cms2/img/pokedex/full/720.png
+720;Hoopa Unbound;Alternativa;680;Gen 6;Psíquico;Noturno;https://assets.pokemon.com/assets/cms2/img/pokedex/full/720_f2.png
+721;Volcanion;Base;600;Gen 6;Fogo;Água;https://assets.pokemon.com/assets/cms2/img/pokedex/full/721.png
+722;Rowlet;Base;320;Gen 7;Planta;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/722.png
+723;Dartrix;Base;420;Gen 7;Planta;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/723.png
+724;Decidueye;Base;530;Gen 7;Planta;Fantasma;https://assets.pokemon.com/assets/cms2/img/pokedex/full/724.png
+724;Hisuian Decidueye;Alternativa;530;Gen 7;Planta;Lutador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/724_f2.png
+725;Litten;Base;320;Gen 7;Fogo;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/725.png
+726;Torracat;Base;420;Gen 7;Fogo;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/726.png
+727;Incineroar;Base;530;Gen 7;Fogo;Noturno;https://assets.pokemon.com/assets/cms2/img/pokedex/full/727.png
+728;Popplio;Base;320;Gen 7;Água;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/728.png
+729;Brionne;Base;420;Gen 7;Água;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/729.png
+730;Primarina;Base;530;Gen 7;Água;Fada;https://assets.pokemon.com/assets/cms2/img/pokedex/full/730.png
+731;Pikipek;Base;265;Gen 7;Normal;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/731.png
+732;Trumbeak;Base;355;Gen 7;Normal;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/732.png
+733;Toucannon;Base;485;Gen 7;Normal;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/733.png
+734;Yungoos;Base;253;Gen 7;Normal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/734.png
+735;Gumshoos;Base;418;Gen 7;Normal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/735.png
+736;Grubbin;Base;300;Gen 7;Inseto;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/736.png
+737;Charjabug;Base;400;Gen 7;Inseto;Elétrico;https://assets.pokemon.com/assets/cms2/img/pokedex/full/737.png
+738;Vikavolt;Base;500;Gen 7;Inseto;Elétrico;https://assets.pokemon.com/assets/cms2/img/pokedex/full/738.png
+739;Crabrawler;Base;338;Gen 7;Lutador;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/739.png
+740;Crabominable;Base;478;Gen 7;Lutador;Gelo;https://assets.pokemon.com/assets/cms2/img/pokedex/full/740.png
+741;Oricorio Baile Style;Base;476;Gen 7;Fogo;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/741.png
+741;Oricorio Pom-Pom Style;Alternativa;476;Gen 7;Elétrico;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/741_f2.png
+741;Oricorio Pa'u Style;Alternativa;476;Gen 7;Psíquico;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/741_f3.png
+741;Oricorio Sensu Style;Alternativa;476;Gen 7;Fantasma;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/741_f4.png
+742;Cutiefly;Base;304;Gen 7;Inseto;Fada;https://assets.pokemon.com/assets/cms2/img/pokedex/full/742.png
+743;Ribombee;Base;464;Gen 7;Inseto;Fada;https://assets.pokemon.com/assets/cms2/img/pokedex/full/743.png
+744;Rockruff;Base;280;Gen 7;Pedra;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/744.png
+744;Own Tempo Rockruff;Alternativa;280;Gen 7;Pedra;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/744.png
+745;Lycanroc Midday Form;Base;487;Gen 7;Pedra;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/745.png
+745;Lycanroc Midnight Form;Alternativa;487;Gen 7;Pedra;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/745_f2.png
+745;Lycanroc Dusk Form;Alternativa;487;Gen 7;Pedra;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/745_f3.png
+746;Wishiwashi Solo Form;Base;175;Gen 7;Água;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/746.png
+746;Wishiwashi School Form;Alternativa;620;Gen 7;Água;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/746_f2.png
+747;Mareanie;Base;305;Gen 7;Veneno;Água;https://assets.pokemon.com/assets/cms2/img/pokedex/full/747.png
+748;Toxapex;Base;495;Gen 7;Veneno;Água;https://assets.pokemon.com/assets/cms2/img/pokedex/full/748.png
+749;Mudbray;Base;385;Gen 7;Solo;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/749.png
+750;Mudsdale;Base;500;Gen 7;Solo;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/750.png
+751;Dewpider;Base;269;Gen 7;Água;Inseto;https://assets.pokemon.com/assets/cms2/img/pokedex/full/751.png
+752;Araquanid;Base;454;Gen 7;Água;Inseto;https://assets.pokemon.com/assets/cms2/img/pokedex/full/752.png
+753;Fomantis;Base;250;Gen 7;Planta;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/753.png
+754;Lurantis;Base;480;Gen 7;Planta;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/754.png
+755;Morelull;Base;285;Gen 7;Planta;Fada;https://assets.pokemon.com/assets/cms2/img/pokedex/full/755.png
+756;Shiinotic;Base;405;Gen 7;Planta;Fada;https://assets.pokemon.com/assets/cms2/img/pokedex/full/756.png
+757;Salandit;Base;320;Gen 7;Veneno;Fogo;https://assets.pokemon.com/assets/cms2/img/pokedex/full/757.png
+758;Salazzle;Base;480;Gen 7;Veneno;Fogo;https://assets.pokemon.com/assets/cms2/img/pokedex/full/758.png
+759;Stufful;Base;340;Gen 7;Normal;Lutador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/759.png
+760;Bewear;Base;500;Gen 7;Normal;Lutador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/760.png
+761;Bounsweet;Base;210;Gen 7;Planta;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/761.png
+762;Steenee;Base;290;Gen 7;Planta;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/762.png
+763;Tsareena;Base;510;Gen 7;Planta;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/763.png
+764;Comfey;Base;485;Gen 7;Fada;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/764.png
+765;Oranguru;Base;490;Gen 7;Normal;Psíquico;https://assets.pokemon.com/assets/cms2/img/pokedex/full/765.png
+766;Passimian;Base;490;Gen 7;Lutador;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/766.png
+767;Wimpod;Base;230;Gen 7;Inseto;Água;https://assets.pokemon.com/assets/cms2/img/pokedex/full/767.png
+768;Golisopod;Base;530;Gen 7;Inseto;Água;https://assets.pokemon.com/assets/cms2/img/pokedex/full/768.png
+769;Sandygast;Base;320;Gen 7;Fantasma;Solo;https://assets.pokemon.com/assets/cms2/img/pokedex/full/769.png
+770;Palossand;Base;480;Gen 7;Fantasma;Solo;https://assets.pokemon.com/assets/cms2/img/pokedex/full/770.png
+771;Pyukumuku;Base;410;Gen 7;Água;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/771.png
+772;Type: Null;Base;534;Gen 7;Normal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/772.png
+773;Silvally;Base;570;Gen 7;Normal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/773.png
+774;Minior Meteor Form;Base;440;Gen 7;Pedra;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/774.png
+774;Minior Core Form;Alternativa;500;Gen 7;Pedra;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/774_f2.png
+775;Komala;Base;480;Gen 7;Normal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/775.png
+776;Turtonator;Base;485;Gen 7;Fogo;Dragão;https://assets.pokemon.com/assets/cms2/img/pokedex/full/776.png
+777;Togedemaru;Base;435;Gen 7;Elétrico;Metal;https://assets.pokemon.com/assets/cms2/img/pokedex/full/777.png
+778;Mimikyu;Base;476;Gen 7;Fantasma;Fada;https://assets.pokemon.com/assets/cms2/img/pokedex/full/778.png
+779;Bruxish;Base;475;Gen 7;Água;Psíquico;https://assets.pokemon.com/assets/cms2/img/pokedex/full/779.png
+780;Drampa;Base;485;Gen 7;Normal;Dragão;https://assets.pokemon.com/assets/cms2/img/pokedex/full/780.png
+781;Dhelmise;Base;517;Gen 7;Fantasma;Planta;https://assets.pokemon.com/assets/cms2/img/pokedex/full/781.png
+782;Jangmo-o;Base;300;Gen 7;Dragão;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/782.png
+783;Hakamo-o;Base;420;Gen 7;Dragão;Lutador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/783.png
+784;Kommo-o;Base;600;Gen 7;Dragão;Lutador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/784.png
+785;Tapu Koko;Base;570;Gen 7;Elétrico;Fada;https://assets.pokemon.com/assets/cms2/img/pokedex/full/785.png
+786;Tapu Lele;Base;570;Gen 7;Psíquico;Fada;https://assets.pokemon.com/assets/cms2/img/pokedex/full/786.png
+787;Tapu Bulu;Base;570;Gen 7;Planta;Fada;https://assets.pokemon.com/assets/cms2/img/pokedex/full/787.png
+788;Tapu Fini;Base;570;Gen 7;Água;Fada;https://assets.pokemon.com/assets/cms2/img/pokedex/full/788.png
+789;Cosmog;Base;200;Gen 7;Psíquico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/789.png
+790;Cosmoem;Base;400;Gen 7;Psíquico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/790.png
+791;Solgaleo;Base;680;Gen 7;Psíquico;Metal;https://assets.pokemon.com/assets/cms2/img/pokedex/full/791.png
+792;Lunala;Base;680;Gen 7;Psíquico;Fantasma;https://assets.pokemon.com/assets/cms2/img/pokedex/full/792.png
+793;Nihilego;Base;570;Gen 7;Pedra;Veneno;https://assets.pokemon.com/assets/cms2/img/pokedex/full/793.png
+794;Buzzwole;Base;570;Gen 7;Inseto;Lutador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/794.png
+795;Pheromosa;Base;570;Gen 7;Inseto;Lutador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/795.png
+796;Xurkitree;Base;570;Gen 7;Elétrico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/796.png
+797;Celesteela;Base;570;Gen 7;Metal;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/797.png
+798;Kartana;Base;570;Gen 7;Planta;Metal;https://assets.pokemon.com/assets/cms2/img/pokedex/full/798.png
+799;Guzzlord;Base;570;Gen 7;Noturno;Dragão;https://assets.pokemon.com/assets/cms2/img/pokedex/full/799.png
+800;Necrozma;Base;600;Gen 7;Psíquico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/800.png
+800;Dusk Mane Necrozma;Alternativa;680;Gen 7;Psíquico;Metal;https://assets.pokemon.com/assets/cms2/img/pokedex/full/800_f2.png
+800;Dawn Wings Necrozma;Alternativa;680;Gen 7;Psíquico;Fantasma;https://assets.pokemon.com/assets/cms2/img/pokedex/full/800_f3.png
+800;Ultra Necrozma;Alternativa;754;Gen 7;Psíquico;Dragão;https://assets.pokemon.com/assets/cms2/img/pokedex/full/800_f4.png
+801;Magearna;Base;600;Gen 7;Metal;Fada;https://assets.pokemon.com/assets/cms2/img/pokedex/full/801.png
+802;Marshadow;Base;600;Gen 7;Lutador;Fantasma;https://assets.pokemon.com/assets/cms2/img/pokedex/full/802.png
+803;Poipole;Base;420;Gen 7;Veneno;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/803.png
+804;Naganadel;Base;540;Gen 7;Veneno;Dragão;https://assets.pokemon.com/assets/cms2/img/pokedex/full/804.png
+805;Stakataka;Base;570;Gen 7;Pedra;Metal;https://assets.pokemon.com/assets/cms2/img/pokedex/full/805.png
+806;Blacephalon;Base;570;Gen 7;Fogo;Fantasma;https://assets.pokemon.com/assets/cms2/img/pokedex/full/806.png
+807;Zeraora;Base;600;Gen 7;Elétrico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/807.png
+808;Meltan;Base;300;Gen 7;Metal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/808.png
+809;Melmetal;Base;600;Gen 7;Metal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/809.png
+810;Grookey;Base;310;Gen 8;Planta;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/810.png
+811;Thwackey;Base;420;Gen 8;Planta;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/811.png
+812;Rillaboom;Base;530;Gen 8;Planta;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/812.png
+813;Scorbunny;Base;310;Gen 8;Fogo;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/813.png
+814;Raboot;Base;420;Gen 8;Fogo;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/814.png
+815;Cinderace;Base;530;Gen 8;Fogo;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/815.png
+816;Sobble;Base;310;Gen 8;Água;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/816.png
+817;Drizzile;Base;420;Gen 8;Água;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/817.png
+818;Inteleon;Base;530;Gen 8;Água;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/818.png
+819;Skwovet;Base;275;Gen 8;Normal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/819.png
+820;Greedent;Base;460;Gen 8;Normal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/820.png
+821;Rookidee;Base;245;Gen 8;Voador;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/821.png
+822;Corvisquire;Base;365;Gen 8;Voador;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/822.png
+823;Corviknight;Base;495;Gen 8;Voador;Metal;https://assets.pokemon.com/assets/cms2/img/pokedex/full/823.png
+824;Blipbug;Base;180;Gen 8;Inseto;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/824.png
+825;Dottler;Base;335;Gen 8;Inseto;Psíquico;https://assets.pokemon.com/assets/cms2/img/pokedex/full/825.png
+826;Orbeetle;Base;505;Gen 8;Inseto;Psíquico;https://assets.pokemon.com/assets/cms2/img/pokedex/full/826.png
+827;Nickit;Base;245;Gen 8;Noturno;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/827.png
+828;Thievul;Base;455;Gen 8;Noturno;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/828.png
+829;Gossifleur;Base;250;Gen 8;Planta;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/829.png
+830;Eldegoss;Base;460;Gen 8;Planta;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/830.png
+831;Wooloo;Base;270;Gen 8;Normal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/831.png
+832;Dubwool;Base;490;Gen 8;Normal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/832.png
+833;Chewtle;Base;284;Gen 8;Água;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/833.png
+834;Drednaw;Base;485;Gen 8;Água;Pedra;https://assets.pokemon.com/assets/cms2/img/pokedex/full/834.png
+835;Yamper;Base;270;Gen 8;Elétrico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/835.png
+836;Boltund;Base;490;Gen 8;Elétrico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/836.png
+837;Rolycoly;Base;240;Gen 8;Pedra;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/837.png
+838;Carkol;Base;410;Gen 8;Pedra;Fogo;https://assets.pokemon.com/assets/cms2/img/pokedex/full/838.png
+839;Coalossal;Base;510;Gen 8;Pedra;Fogo;https://assets.pokemon.com/assets/cms2/img/pokedex/full/839.png
+840;Applin;Base;260;Gen 8;Planta;Dragão;https://assets.pokemon.com/assets/cms2/img/pokedex/full/840.png
+841;Flapple;Base;485;Gen 8;Planta;Dragão;https://assets.pokemon.com/assets/cms2/img/pokedex/full/841.png
+842;Appletun;Base;485;Gen 8;Planta;Dragão;https://assets.pokemon.com/assets/cms2/img/pokedex/full/842.png
+843;Silicobra;Base;315;Gen 8;Solo;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/843.png
+844;Sandaconda;Base;510;Gen 8;Solo;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/844.png
+845;Cramorant;Base;475;Gen 8;Voador;Água;https://assets.pokemon.com/assets/cms2/img/pokedex/full/845.png
+846;Arrokuda;Base;280;Gen 8;Água;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/846.png
+847;Barraskewda;Base;490;Gen 8;Água;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/847.png
+848;Toxel;Base;242;Gen 8;Elétrico;Veneno;https://assets.pokemon.com/assets/cms2/img/pokedex/full/848.png
+849;Toxtricity Amped Form;Base;502;Gen 8;Elétrico;Veneno;https://assets.pokemon.com/assets/cms2/img/pokedex/full/849.png
+849;Toxtricity Low Key Form;Alternativa;502;Gen 8;Elétrico;Veneno;https://assets.pokemon.com/assets/cms2/img/pokedex/full/849_f2.png
+850;Sizzlipede;Base;305;Gen 8;Fogo;Inseto;https://assets.pokemon.com/assets/cms2/img/pokedex/full/850.png
+851;Centiskorch;Base;525;Gen 8;Fogo;Inseto;https://assets.pokemon.com/assets/cms2/img/pokedex/full/851.png
+852;Clobbopus;Base;310;Gen 8;Lutador;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/852.png
+853;Grapploct;Base;480;Gen 8;Lutador;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/853.png
+854;Sinistea;Base;308;Gen 8;Fantasma;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/854.png
+855;Polteageist;Base;508;Gen 8;Fantasma;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/855.png
+856;Hatenna;Base;265;Gen 8;Psíquico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/856.png
+857;Hattrem;Base;370;Gen 8;Psíquico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/857.png
+858;Hatterene;Base;510;Gen 8;Psíquico;Fada;https://assets.pokemon.com/assets/cms2/img/pokedex/full/858.png
+859;Impidimp;Base;265;Gen 8;Noturno;Fada;https://assets.pokemon.com/assets/cms2/img/pokedex/full/859.png
+860;Morgrem;Base;370;Gen 8;Noturno;Fada;https://assets.pokemon.com/assets/cms2/img/pokedex/full/860.png
+861;Grimmsnarl;Base;510;Gen 8;Noturno;Fada;https://assets.pokemon.com/assets/cms2/img/pokedex/full/861.png
+862;Obstagoon;Base;520;Gen 8;Noturno;Normal;https://assets.pokemon.com/assets/cms2/img/pokedex/full/862.png
+863;Perrserker;Base;440;Gen 8;Metal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/863.png
+864;Cursola;Base;510;Gen 8;Fantasma;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/864.png
+865;Sirfetch'd;Base;507;Gen 8;Lutador;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/865.png
+866;Mr. Rime;Base;520;Gen 8;Gelo;Psíquico;https://assets.pokemon.com/assets/cms2/img/pokedex/full/866.png
+867;Runerigus;Base;483;Gen 8;Solo;Fantasma;https://assets.pokemon.com/assets/cms2/img/pokedex/full/867.png
+868;Milcery;Base;270;Gen 8;Fada;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/868.png
+869;Alcremie;Base;495;Gen 8;Fada;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/869.png
+870;Falinks;Base;470;Gen 8;Lutador;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/870.png
+871;Pincurchin;Base;435;Gen 8;Elétrico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/871.png
+872;Snom;Base;185;Gen 8;Gelo;Inseto;https://assets.pokemon.com/assets/cms2/img/pokedex/full/872.png
+873;Frosmoth;Base;475;Gen 8;Gelo;Inseto;https://assets.pokemon.com/assets/cms2/img/pokedex/full/873.png
+874;Stonjourner;Base;470;Gen 8;Pedra;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/874.png
+875;Eiscue Ice Face;Base;470;Gen 8;Gelo;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/875.png
+875;Eiscue Noice Face;Alternativa;470;Gen 8;Gelo;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/875_f2.png
+876;Indeedee Male;Base;475;Gen 8;Psíquico;Normal;https://assets.pokemon.com/assets/cms2/img/pokedex/full/876.png
+876;Indeedee Female;Alternativa;475;Gen 8;Psíquico;Normal;https://assets.pokemon.com/assets/cms2/img/pokedex/full/876_f2.png
+877;Morpeko Full Belly Mode;Base;436;Gen 8;Elétrico;Noturno;https://assets.pokemon.com/assets/cms2/img/pokedex/full/877.png
+877;Morpeko Hangry Mode;Alternativa;436;Gen 8;Elétrico;Noturno;https://assets.pokemon.com/assets/cms2/img/pokedex/full/877_f2.png
+878;Cufant;Base;330;Gen 8;Metal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/878.png
+879;Copperajah;Base;500;Gen 8;Metal;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/879.png
+880;Dracozolt;Base;505;Gen 8;Elétrico;Dragão;https://assets.pokemon.com/assets/cms2/img/pokedex/full/880.png
+881;Arctozolt;Base;505;Gen 8;Elétrico;Gelo;https://assets.pokemon.com/assets/cms2/img/pokedex/full/881.png
+882;Dracovish;Base;505;Gen 8;Água;Dragão;https://assets.pokemon.com/assets/cms2/img/pokedex/full/882.png
+883;Arctovish;Base;505;Gen 8;Água;Gelo;https://assets.pokemon.com/assets/cms2/img/pokedex/full/883.png
+884;Duraludon;Base;535;Gen 8;Metal;Dragão;https://assets.pokemon.com/assets/cms2/img/pokedex/full/884.png
+885;Dreepy;Base;270;Gen 8;Dragão;Fantasma;https://assets.pokemon.com/assets/cms2/img/pokedex/full/885.png
+886;Drakloak;Base;410;Gen 8;Dragão;Fantasma;https://assets.pokemon.com/assets/cms2/img/pokedex/full/886.png
+887;Dragapult;Base;600;Gen 8;Dragão;Fantasma;https://assets.pokemon.com/assets/cms2/img/pokedex/full/887.png
+888;Zacian Hero of Many Battles;Base;670;Gen 8;Fada;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/888.png
+888;Zacian Crowned Sword;Alternativa;720;Gen 8;Fada;Metal;https://assets.pokemon.com/assets/cms2/img/pokedex/full/888_f2.png
+889;Zamazenta Hero of Many Battles;Base;670;Gen 8;Lutador;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/889.png
+889;Zamazenta Crowned Shield;Alternativa;720;Gen 8;Lutador;Metal;https://assets.pokemon.com/assets/cms2/img/pokedex/full/889_f2.png
+890;Eternatus;Base;690;Gen 8;Veneno;Dragão;https://assets.pokemon.com/assets/cms2/img/pokedex/full/890.png
+890;Eternatus Eternamax;Alternativa;1125;Gen 8;Veneno;Dragão;https://assets.pokemon.com/assets/cms2/img/pokedex/full/890_f2.png
+891;Kubfu;Base;385;Gen 8;Lutador;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/891.png
+892;Urshifu Single Strike Style;Base;550;Gen 8;Lutador;Noturno;https://assets.pokemon.com/assets/cms2/img/pokedex/full/892.png
+892;Urshifu Rapid Strike Style;Alternativa;550;Gen 8;Lutador;Água;https://assets.pokemon.com/assets/cms2/img/pokedex/full/892_f2.png
+893;Zarude;Base;600;Gen 8;Noturno;Planta;https://assets.pokemon.com/assets/cms2/img/pokedex/full/893.png
+894;Regieleki;Base;580;Gen 8;Elétrico;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/894.png
+895;Regidrago;Base;580;Gen 8;Dragão;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/895.png
+896;Glastrier;Base;580;Gen 8;Gelo;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/896.png
+897;Spectrier;Base;580;Gen 8;Fantasma;-;https://assets.pokemon.com/assets/cms2/img/pokedex/full/897.png
+898;Calyrex;Base;500;Gen 8;Psíquico;Planta;https://assets.pokemon.com/assets/cms2/img/pokedex/full/898.png
+898;Calyrex Ice Rider;Alternativa;680;Gen 8;Psíquico;Gelo;https://assets.pokemon.com/assets/cms2/img/pokedex/full/898_f2.png
+898;Calyrex Shadow Rider;Alternativa;680;Gen 8;Psíquico;Fantasma;https://assets.pokemon.com/assets/cms2/img/pokedex/full/898_f3.png
+899;Wyrdeer;Base;525;Gen 8;Normal;Psíquico;https://assets.pokemon.com/assets/cms2/img/pokedex/full/899.png
+900;Kleavor;Base;500;Gen 8;Inseto;Pedra;https://assets.pokemon.com/assets/cms2/img/pokedex/full/900.png
+901;Ursaluna;Base;550;Gen 8;Normal;Solo;https://assets.pokemon.com/assets/cms2/img/pokedex/full/901.png
+902;Basculegion Male;Base;530;Gen 8;Água;Fantasma;https://assets.pokemon.com/assets/cms2/img/pokedex/full/902.png
+902;Basculegion Female;Alternativa;530;Gen 8;Água;Fantasma;https://assets.pokemon.com/assets/cms2/img/pokedex/full/902_f2.png
+903;Sneasler;Base;510;Gen 8;Veneno;Lutador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/903.png
+904;Overqwil;Base;510;Gen 8;Noturno;Veneno;https://assets.pokemon.com/assets/cms2/img/pokedex/full/904.png
+905;Enamorus Incarnate Forme;Base;580;Gen 8;Fada;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/905.png
+905;Enamorus Therian Forme;Alternativa;580;Gen 8;Fada;Voador;https://assets.pokemon.com/assets/cms2/img/pokedex/full/905_f2.png
