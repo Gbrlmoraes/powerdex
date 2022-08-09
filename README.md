@@ -10,7 +10,7 @@ Link para o projeto: https://bit.ly/Powedex
 
 # 🧾Descrição do Projeto
 
-Projeto em desenvolvimento com intuito de por em prática conhecimentos em ETL que vão desde a extração e tratamento dos dados via Python e visualização via Power BI
+Projeto em desenvolvimento com o objetivo de por em prática conhecimentos em ETL que vão desde a extração e tratamento dos dados via Python e visualização via Power BI
 
 A Power Dex permite a consulta de informações sobre os pokémons lançados até a 8 geração como status base, evoluções, formas alternativas, movimentos e muito mais
 
@@ -121,10 +121,10 @@ Falando em banco de dados, o escolhido para esse projeto foi o <a href="https://
 ## 🥣Transform - Transformação/Tratamento dos dados
 <i>OBS: Todos os dados foram tratados utilizando apenas funções da biblioteca Pandas e do próprio Python</i>
 
-- `Tipos`: A coluna coletada com os tipos completos dos pokémon foi traduzida para o português e foi dividida em duas colunas (Tipo Primário e Tipo Secundário). Ex:
-Tipo: Grass/Poison >>> Tipo 1: Planta / Tipo 2: Veneno
+- `Tipos`: A coluna coletada com os tipos completos dos pokémon foi traduzida para o português e foi dividida em duas colunas (Tipo Primário e Tipo Secundário). (Ex:
+Tipo: Grass/Poison >>> Tipo 1: Planta / Tipo 2: Veneno).
 
-- `Geração`: Foi adicionada uma coluna com a geração de cada pokemon, baseada no seu ID
+- `Geração`: Foi adicionada uma coluna com a geração de cada pokemon, baseada no seu ID.
 
 - `Imagem`: Foi criada uma coluna com o link da imagem oficial de cada pokémon disponível no <a href="https://www.pokemon.com/br/" target="_blank">Site Oficial do Pokémon</a>, utilizando apenas um padrão que depende do ID.
      - Forma Base: https://assets.pokemon.com/assets/cms2/img/pokedex/full/ + __ID_POKEDEX__ + .png
@@ -136,10 +136,10 @@ Tipo: Grass/Poison >>> Tipo 1: Planta / Tipo 2: Veneno
 
 ## 🥗Load - Carregamento dos dados
 ### PostgreSQL
-<i>OBS: Dados carregados para o banco usando a Pandas e SQLAlchemy</i>
+<i>OBS: Dados carregados para o banco usando a Pandas e SQLAlchemy.</i>
 
 ### CSV
-Os dados também foram carregados para arquivos CSV, com o objetivo de facilitar a disponibilização do dataset coletado
+Os dados também foram carregados para arquivos CSV, com o objetivo de facilitar a disponibilização do dataset coletado.
 
 
 
