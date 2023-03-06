@@ -3,7 +3,7 @@
 ![Banner Inicial](https://user-images.githubusercontent.com/110268371/183133088-8c64acf9-a406-4dfb-a80d-dea0345409be.png)
 
 <p align="center">
-<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+<img src="http://img.shields.io/static/v1?label=STATUS&message=Finalizado&color=GREEN&style=for-the-badge"/>
 </p>
 
 Link para o projeto: https://bit.ly/Powedex
